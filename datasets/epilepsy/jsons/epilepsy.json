@@ -1,0 +1,1364 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "id": 0,
+            "image": [
+                "/data/yang/epilepsy/sub-00048/anat/sub-00048_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 1,
+            "image": [
+                "/data/yang/epilepsy/sub-00023/anat/sub-00023_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 2,
+            "image": [
+                "/data/yang/epilepsy/sub-00019/anat/sub-00019_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 3,
+            "image": [
+                "/data/yang/epilepsy/sub-00009/anat/sub-00009_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 4,
+            "image": [
+                "/data/yang/epilepsy/sub-00163/anat/sub-00163_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 5,
+            "image": [
+                "/data/yang/epilepsy/sub-00134/anat/sub-00134_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 6,
+            "image": [
+                "/data/yang/epilepsy/sub-00044/anat/sub-00044_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 7,
+            "image": [
+                "/data/yang/epilepsy/sub-00034/anat/sub-00034_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 8,
+            "image": [
+                "/data/yang/epilepsy/sub-00040/anat/sub-00040_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 9,
+            "image": [
+                "/data/yang/epilepsy/sub-00162/anat/sub-00162_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 10,
+            "image": [
+                "/data/yang/epilepsy/sub-00169/anat/sub-00169_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 11,
+            "image": [
+                "/data/yang/epilepsy/sub-00147/anat/sub-00147_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 12,
+            "image": [
+                "/data/yang/epilepsy/sub-00165/anat/sub-00165_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 13,
+            "image": [
+                "/data/yang/epilepsy/sub-00102/anat/sub-00102_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 14,
+            "image": [
+                "/data/yang/epilepsy/sub-00094/anat/sub-00094_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 15,
+            "image": [
+                "/data/yang/epilepsy/sub-00161/anat/sub-00161_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 16,
+            "image": [
+                "/data/yang/epilepsy/sub-00015/anat/sub-00015_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 17,
+            "image": [
+                "/data/yang/epilepsy/sub-00135/anat/sub-00135_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 18,
+            "image": [
+                "/data/yang/epilepsy/sub-00031/anat/sub-00031_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 19,
+            "image": [
+                "/data/yang/epilepsy/sub-00072/anat/sub-00072_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 20,
+            "image": [
+                "/data/yang/epilepsy/sub-00122/anat/sub-00122_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 21,
+            "image": [
+                "/data/yang/epilepsy/sub-00080/anat/sub-00080_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 22,
+            "image": [
+                "/data/yang/epilepsy/sub-00120/anat/sub-00120_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 23,
+            "image": [
+                "/data/yang/epilepsy/sub-00038/anat/sub-00038_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 24,
+            "image": [
+                "/data/yang/epilepsy/sub-00137/anat/sub-00137_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 25,
+            "image": [
+                "/data/yang/epilepsy/sub-00035/anat/sub-00035_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 26,
+            "image": [
+                "/data/yang/epilepsy/sub-00126/anat/sub-00126_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 27,
+            "image": [
+                "/data/yang/epilepsy/sub-00079/anat/sub-00079_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 28,
+            "image": [
+                "/data/yang/epilepsy/sub-00045/anat/sub-00045_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 29,
+            "image": [
+                "/data/yang/epilepsy/sub-00060/anat/sub-00060_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 30,
+            "image": [
+                "/data/yang/epilepsy/sub-00021/anat/sub-00021_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 31,
+            "image": [
+                "/data/yang/epilepsy/sub-00014/anat/sub-00014_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 32,
+            "image": [
+                "/data/yang/epilepsy/sub-00111/anat/sub-00111_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 33,
+            "image": [
+                "/data/yang/epilepsy/sub-00101/anat/sub-00101_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 34,
+            "image": [
+                "/data/yang/epilepsy/sub-00170/anat/sub-00170_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 35,
+            "image": [
+                "/data/yang/epilepsy/sub-00036/anat/sub-00036_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 36,
+            "image": [
+                "/data/yang/epilepsy/sub-00001/anat/sub-00001_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 37,
+            "image": [
+                "/data/yang/epilepsy/sub-00168/anat/sub-00168_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 38,
+            "image": [
+                "/data/yang/epilepsy/sub-00003/anat/sub-00003_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 39,
+            "image": [
+                "/data/yang/epilepsy/sub-00099/anat/sub-00099_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 40,
+            "image": [
+                "/data/yang/epilepsy/sub-00108/anat/sub-00108_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 41,
+            "image": [
+                "/data/yang/epilepsy/sub-00132/anat/sub-00132_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 42,
+            "image": [
+                "/data/yang/epilepsy/sub-00166/anat/sub-00166_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 43,
+            "image": [
+                "/data/yang/epilepsy/sub-00054/anat/sub-00054_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 44,
+            "image": [
+                "/data/yang/epilepsy/sub-00144/anat/sub-00144_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 45,
+            "image": [
+                "/data/yang/epilepsy/sub-00061/anat/sub-00061_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 46,
+            "image": [
+                "/data/yang/epilepsy/sub-00117/anat/sub-00117_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 47,
+            "image": [
+                "/data/yang/epilepsy/sub-00114/anat/sub-00114_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 48,
+            "image": [
+                "/data/yang/epilepsy/sub-00065/anat/sub-00065_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 49,
+            "image": [
+                "/data/yang/epilepsy/sub-00156/anat/sub-00156_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 50,
+            "image": [
+                "/data/yang/epilepsy/sub-00159/anat/sub-00159_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 51,
+            "image": [
+                "/data/yang/epilepsy/sub-00160/anat/sub-00160_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 52,
+            "image": [
+                "/data/yang/epilepsy/sub-00028/anat/sub-00028_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 53,
+            "image": [
+                "/data/yang/epilepsy/sub-00091/anat/sub-00091_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 54,
+            "image": [
+                "/data/yang/epilepsy/sub-00012/anat/sub-00012_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 55,
+            "image": [
+                "/data/yang/epilepsy/sub-00145/anat/sub-00145_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 56,
+            "image": [
+                "/data/yang/epilepsy/sub-00107/anat/sub-00107_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 57,
+            "image": [
+                "/data/yang/epilepsy/sub-00154/anat/sub-00154_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 58,
+            "image": [
+                "/data/yang/epilepsy/sub-00123/anat/sub-00123_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 59,
+            "image": [
+                "/data/yang/epilepsy/sub-00076/anat/sub-00076_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 60,
+            "image": [
+                "/data/yang/epilepsy/sub-00109/anat/sub-00109_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 61,
+            "image": [
+                "/data/yang/epilepsy/sub-00157/anat/sub-00157_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 62,
+            "image": [
+                "/data/yang/epilepsy/sub-00010/anat/sub-00010_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 63,
+            "image": [
+                "/data/yang/epilepsy/sub-00133/anat/sub-00133_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 64,
+            "image": [
+                "/data/yang/epilepsy/sub-00164/anat/sub-00164_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 65,
+            "image": [
+                "/data/yang/epilepsy/sub-00150/anat/sub-00150_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 66,
+            "image": [
+                "/data/yang/epilepsy/sub-00155/anat/sub-00155_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 67,
+            "image": [
+                "/data/yang/epilepsy/sub-00059/anat/sub-00059_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 68,
+            "image": [
+                "/data/yang/epilepsy/sub-00042/anat/sub-00042_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 69,
+            "image": [
+                "/data/yang/epilepsy/sub-00075/anat/sub-00075_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 70,
+            "image": [
+                "/data/yang/epilepsy/sub-00005/anat/sub-00005_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 71,
+            "image": [
+                "/data/yang/epilepsy/sub-00142/anat/sub-00142_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 72,
+            "image": [
+                "/data/yang/epilepsy/sub-00049/anat/sub-00049_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 73,
+            "image": [
+                "/data/yang/epilepsy/sub-00130/anat/sub-00130_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 74,
+            "image": [
+                "/data/yang/epilepsy/sub-00149/anat/sub-00149_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 75,
+            "image": [
+                "/data/yang/epilepsy/sub-00093/anat/sub-00093_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 76,
+            "image": [
+                "/data/yang/epilepsy/sub-00004/anat/sub-00004_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 77,
+            "image": [
+                "/data/yang/epilepsy/sub-00158/anat/sub-00158_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 78,
+            "image": [
+                "/data/yang/epilepsy/sub-00096/anat/sub-00096_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 79,
+            "image": [
+                "/data/yang/epilepsy/sub-00081/anat/sub-00081_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 80,
+            "image": [
+                "/data/yang/epilepsy/sub-00008/anat/sub-00008_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 81,
+            "image": [
+                "/data/yang/epilepsy/sub-00129/anat/sub-00129_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 82,
+            "image": [
+                "/data/yang/epilepsy/sub-00128/anat/sub-00128_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 83,
+            "image": [
+                "/data/yang/epilepsy/sub-00022/anat/sub-00022_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 84,
+            "image": [
+                "/data/yang/epilepsy/sub-00090/anat/sub-00090_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 85,
+            "image": [
+                "/data/yang/epilepsy/sub-00151/anat/sub-00151_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 86,
+            "image": [
+                "/data/yang/epilepsy/sub-00006/anat/sub-00006_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 87,
+            "image": [
+                "/data/yang/epilepsy/sub-00002/anat/sub-00002_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 88,
+            "image": [
+                "/data/yang/epilepsy/sub-00100/anat/sub-00100_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 89,
+            "image": [
+                "/data/yang/epilepsy/sub-00041/anat/sub-00041_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 90,
+            "image": [
+                "/data/yang/epilepsy/sub-00118/anat/sub-00118_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 91,
+            "image": [
+                "/data/yang/epilepsy/sub-00025/anat/sub-00025_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 92,
+            "image": [
+                "/data/yang/epilepsy/sub-00082/anat/sub-00082_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 93,
+            "image": [
+                "/data/yang/epilepsy/sub-00136/anat/sub-00136_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 94,
+            "image": [
+                "/data/yang/epilepsy/sub-00043/anat/sub-00043_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 95,
+            "image": [
+                "/data/yang/epilepsy/sub-00148/anat/sub-00148_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 96,
+            "image": [
+                "/data/yang/epilepsy/sub-00097/anat/sub-00097_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 97,
+            "image": [
+                "/data/yang/epilepsy/sub-00029/anat/sub-00029_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 98,
+            "image": [
+                "/data/yang/epilepsy/sub-00073/anat/sub-00073_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 99,
+            "image": [
+                "/data/yang/epilepsy/sub-00092/anat/sub-00092_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 100,
+            "image": [
+                "/data/yang/epilepsy/sub-00032/anat/sub-00032_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 101,
+            "image": [
+                "/data/yang/epilepsy/sub-00087/anat/sub-00087_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 102,
+            "image": [
+                "/data/yang/epilepsy/sub-00139/anat/sub-00139_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 103,
+            "image": [
+                "/data/yang/epilepsy/sub-00098/anat/sub-00098_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 104,
+            "image": [
+                "/data/yang/epilepsy/sub-00140/anat/sub-00140_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 105,
+            "image": [
+                "/data/yang/epilepsy/sub-00030/anat/sub-00030_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 106,
+            "image": [
+                "/data/yang/epilepsy/sub-00020/anat/sub-00020_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 107,
+            "image": [
+                "/data/yang/epilepsy/sub-00113/anat/sub-00113_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 108,
+            "image": [
+                "/data/yang/epilepsy/sub-00088/anat/sub-00088_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 109,
+            "image": [
+                "/data/yang/epilepsy/sub-00051/anat/sub-00051_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 110,
+            "image": [
+                "/data/yang/epilepsy/sub-00018/anat/sub-00018_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 111,
+            "image": [
+                "/data/yang/epilepsy/sub-00138/anat/sub-00138_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 112,
+            "image": [
+                "/data/yang/epilepsy/sub-00064/anat/sub-00064_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 113,
+            "image": [
+                "/data/yang/epilepsy/sub-00069/anat/sub-00069_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 114,
+            "image": [
+                "/data/yang/epilepsy/sub-00078/anat/sub-00078_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 115,
+            "image": [
+                "/data/yang/epilepsy/sub-00153/anat/sub-00153_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 116,
+            "image": [
+                "/data/yang/epilepsy/sub-00062/anat/sub-00062_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 117,
+            "image": [
+                "/data/yang/epilepsy/sub-00116/anat/sub-00116_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 118,
+            "image": [
+                "/data/yang/epilepsy/sub-00057/anat/sub-00057_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 119,
+            "image": [
+                "/data/yang/epilepsy/sub-00068/anat/sub-00068_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 120,
+            "image": [
+                "/data/yang/epilepsy/sub-00104/anat/sub-00104_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 121,
+            "image": [
+                "/data/yang/epilepsy/sub-00086/anat/sub-00086_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 122,
+            "image": [
+                "/data/yang/epilepsy/sub-00039/anat/sub-00039_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 123,
+            "image": [
+                "/data/yang/epilepsy/sub-00152/anat/sub-00152_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 124,
+            "image": [
+                "/data/yang/epilepsy/sub-00067/anat/sub-00067_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 125,
+            "image": [
+                "/data/yang/epilepsy/sub-00077/anat/sub-00077_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 126,
+            "image": [
+                "/data/yang/epilepsy/sub-00112/anat/sub-00112_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 127,
+            "image": [
+                "/data/yang/epilepsy/sub-00143/anat/sub-00143_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 128,
+            "image": [
+                "/data/yang/epilepsy/sub-00084/anat/sub-00084_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 129,
+            "image": [
+                "/data/yang/epilepsy/sub-00105/anat/sub-00105_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 130,
+            "image": [
+                "/data/yang/epilepsy/sub-00070/anat/sub-00070_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 131,
+            "image": [
+                "/data/yang/epilepsy/sub-00017/anat/sub-00017_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 132,
+            "image": [
+                "/data/yang/epilepsy/sub-00024/anat/sub-00024_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 133,
+            "image": [
+                "/data/yang/epilepsy/sub-00095/anat/sub-00095_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 134,
+            "image": [
+                "/data/yang/epilepsy/sub-00125/anat/sub-00125_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 135,
+            "image": [
+                "/data/yang/epilepsy/sub-00047/anat/sub-00047_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 136,
+            "image": [
+                "/data/yang/epilepsy/sub-00063/anat/sub-00063_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 137,
+            "image": [
+                "/data/yang/epilepsy/sub-00007/anat/sub-00007_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 138,
+            "image": [
+                "/data/yang/epilepsy/sub-00119/anat/sub-00119_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 139,
+            "image": [
+                "/data/yang/epilepsy/sub-00046/anat/sub-00046_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 140,
+            "image": [
+                "/data/yang/epilepsy/sub-00124/anat/sub-00124_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 141,
+            "image": [
+                "/data/yang/epilepsy/sub-00037/anat/sub-00037_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 142,
+            "image": [
+                "/data/yang/epilepsy/sub-00103/anat/sub-00103_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 143,
+            "image": [
+                "/data/yang/epilepsy/sub-00127/anat/sub-00127_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 144,
+            "image": [
+                "/data/yang/epilepsy/sub-00016/anat/sub-00016_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 145,
+            "image": [
+                "/data/yang/epilepsy/sub-00056/anat/sub-00056_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 146,
+            "image": [
+                "/data/yang/epilepsy/sub-00066/anat/sub-00066_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 147,
+            "image": [
+                "/data/yang/epilepsy/sub-00167/anat/sub-00167_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 148,
+            "image": [
+                "/data/yang/epilepsy/sub-00110/anat/sub-00110_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 149,
+            "image": [
+                "/data/yang/epilepsy/sub-00026/anat/sub-00026_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 150,
+            "image": [
+                "/data/yang/epilepsy/sub-00058/anat/sub-00058_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 151,
+            "image": [
+                "/data/yang/epilepsy/sub-00052/anat/sub-00052_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 152,
+            "image": [
+                "/data/yang/epilepsy/sub-00131/anat/sub-00131_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 153,
+            "image": [
+                "/data/yang/epilepsy/sub-00115/anat/sub-00115_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 154,
+            "image": [
+                "/data/yang/epilepsy/sub-00121/anat/sub-00121_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 155,
+            "image": [
+                "/data/yang/epilepsy/sub-00053/anat/sub-00053_acq-sag111VNS_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 156,
+            "image": [
+                "/data/yang/epilepsy/sub-00089/anat/sub-00089_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 157,
+            "image": [
+                "/data/yang/epilepsy/sub-00141/anat/sub-00141_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 158,
+            "image": [
+                "/data/yang/epilepsy/sub-00055/anat/sub-00055_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 159,
+            "image": [
+                "/data/yang/epilepsy/sub-00083/anat/sub-00083_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 160,
+            "image": [
+                "/data/yang/epilepsy/sub-00027/anat/sub-00027_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 161,
+            "image": [
+                "/data/yang/epilepsy/sub-00074/anat/sub-00074_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 162,
+            "image": [
+                "/data/yang/epilepsy/sub-00050/anat/sub-00050_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 163,
+            "image": [
+                "/data/yang/epilepsy/sub-00033/anat/sub-00033_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 164,
+            "image": [
+                "/data/yang/epilepsy/sub-00146/anat/sub-00146_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 165,
+            "image": [
+                "/data/yang/epilepsy/sub-00085/anat/sub-00085_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 166,
+            "image": [
+                "/data/yang/epilepsy/sub-00106/anat/sub-00106_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 167,
+            "image": [
+                "/data/yang/epilepsy/sub-00071/anat/sub-00071_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 168,
+            "image": [
+                "/data/yang/epilepsy/sub-00013/anat/sub-00013_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 169,
+            "image": [
+                "/data/yang/epilepsy/sub-00011/anat/sub-00011_acq-iso08_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        }
+    ]
+}

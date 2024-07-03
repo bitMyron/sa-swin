@@ -1,0 +1,636 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "id": 0,
+            "image": [
+                "/data/yang/ADHD/sub-13/ses-T1/anat/sub-13_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 1,
+            "image": [
+                "/data/yang/ADHD/sub-52/ses-T1/anat/sub-52_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 2,
+            "image": [
+                "/data/yang/ADHD/sub-24/ses-T1/anat/sub-24_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 3,
+            "image": [
+                "/data/yang/ADHD/sub-36/ses-T1/anat/sub-36_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 4,
+            "image": [
+                "/data/yang/ADHD/sub-47/ses-T1/anat/sub-47_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 5,
+            "image": [
+                "/data/yang/ADHD/sub-67/ses-T1/anat/sub-67_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 6,
+            "image": [
+                "/data/yang/ADHD/sub-75/ses-T1/anat/sub-75_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 7,
+            "image": [
+                "/data/yang/ADHD/sub-15/ses-T1/anat/sub-15_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 8,
+            "image": [
+                "/data/yang/ADHD/sub-59/ses-T1/anat/sub-59_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 9,
+            "image": [
+                "/data/yang/ADHD/sub-58/ses-T1/anat/sub-58_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 10,
+            "image": [
+                "/data/yang/ADHD/sub-05/ses-T1/anat/sub-05_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 11,
+            "image": [
+                "/data/yang/ADHD/sub-46/ses-T1/anat/sub-46_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 12,
+            "image": [
+                "/data/yang/ADHD/sub-30/ses-T1/anat/sub-30_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 13,
+            "image": [
+                "/data/yang/ADHD/sub-22/ses-T1/anat/sub-22_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 14,
+            "image": [
+                "/data/yang/ADHD/sub-43/ses-T1/anat/sub-43_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 15,
+            "image": [
+                "/data/yang/ADHD/sub-51/ses-T1/anat/sub-51_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 16,
+            "image": [
+                "/data/yang/ADHD/sub-18/ses-T1/anat/sub-18_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 17,
+            "image": [
+                "/data/yang/ADHD/sub-28/ses-T1/anat/sub-28_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 18,
+            "image": [
+                "/data/yang/ADHD/sub-62/ses-T1/anat/sub-62_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 19,
+            "image": [
+                "/data/yang/ADHD/sub-23/ses-T1/anat/sub-23_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 20,
+            "image": [
+                "/data/yang/ADHD/sub-68/ses-T1/anat/sub-68_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 21,
+            "image": [
+                "/data/yang/ADHD/sub-66/ses-T1/anat/sub-66_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 22,
+            "image": [
+                "/data/yang/ADHD/sub-12/ses-T1/anat/sub-12_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 23,
+            "image": [
+                "/data/yang/ADHD/sub-64/ses-T1/anat/sub-64_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 24,
+            "image": [
+                "/data/yang/ADHD/sub-04/ses-T1/anat/sub-04_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 25,
+            "image": [
+                "/data/yang/ADHD/sub-20/ses-T1/anat/sub-20_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 26,
+            "image": [
+                "/data/yang/ADHD/sub-34/ses-T1/anat/sub-34_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 27,
+            "image": [
+                "/data/yang/ADHD/sub-78/ses-T1/anat/sub-78_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 28,
+            "image": [
+                "/data/yang/ADHD/sub-65/ses-T1/anat/sub-65_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 29,
+            "image": [
+                "/data/yang/ADHD/sub-71/ses-T1/anat/sub-71_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 30,
+            "image": [
+                "/data/yang/ADHD/sub-45/ses-T1/anat/sub-45_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 31,
+            "image": [
+                "/data/yang/ADHD/sub-48/ses-T1/anat/sub-48_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 32,
+            "image": [
+                "/data/yang/ADHD/sub-01/ses-T1/anat/sub-01_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 33,
+            "image": [
+                "/data/yang/ADHD/sub-70/ses-T1/anat/sub-70_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 34,
+            "image": [
+                "/data/yang/ADHD/sub-38/ses-T1/anat/sub-38_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 35,
+            "image": [
+                "/data/yang/ADHD/sub-56/ses-T1/anat/sub-56_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 36,
+            "image": [
+                "/data/yang/ADHD/sub-42/ses-T1/anat/sub-42_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 37,
+            "image": [
+                "/data/yang/ADHD/sub-16/ses-T1/anat/sub-16_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 38,
+            "image": [
+                "/data/yang/ADHD/sub-69/ses-T1/anat/sub-69_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 39,
+            "image": [
+                "/data/yang/ADHD/sub-53/ses-T1/anat/sub-53_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 40,
+            "image": [
+                "/data/yang/ADHD/sub-77/ses-T1/anat/sub-77_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 41,
+            "image": [
+                "/data/yang/ADHD/sub-02/ses-T1/anat/sub-02_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 42,
+            "image": [
+                "/data/yang/ADHD/sub-57/ses-T1/anat/sub-57_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 43,
+            "image": [
+                "/data/yang/ADHD/sub-55/ses-T1/anat/sub-55_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 44,
+            "image": [
+                "/data/yang/ADHD/sub-54/ses-T1/anat/sub-54_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 45,
+            "image": [
+                "/data/yang/ADHD/sub-37/ses-T1/anat/sub-37_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 46,
+            "image": [
+                "/data/yang/ADHD/sub-25/ses-T1/anat/sub-25_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 47,
+            "image": [
+                "/data/yang/ADHD/sub-39/ses-T1/anat/sub-39_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 48,
+            "image": [
+                "/data/yang/ADHD/sub-35/ses-T1/anat/sub-35_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 49,
+            "image": [
+                "/data/yang/ADHD/sub-03/ses-T1/anat/sub-03_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 50,
+            "image": [
+                "/data/yang/ADHD/sub-63/ses-T1/anat/sub-63_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 51,
+            "image": [
+                "/data/yang/ADHD/sub-21/ses-T1/anat/sub-21_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 52,
+            "image": [
+                "/data/yang/ADHD/sub-31/ses-T1/anat/sub-31_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 53,
+            "image": [
+                "/data/yang/ADHD/sub-76/ses-T1/anat/sub-76_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 54,
+            "image": [
+                "/data/yang/ADHD/sub-26/ses-T1/anat/sub-26_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 55,
+            "image": [
+                "/data/yang/ADHD/sub-10/ses-T1/anat/sub-10_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 56,
+            "image": [
+                "/data/yang/ADHD/sub-29/ses-T1/anat/sub-29_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 57,
+            "image": [
+                "/data/yang/ADHD/sub-27/ses-T1/anat/sub-27_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 58,
+            "image": [
+                "/data/yang/ADHD/sub-09/ses-T1/anat/sub-09_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 59,
+            "image": [
+                "/data/yang/ADHD/sub-11/ses-T1/anat/sub-11_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 60,
+            "image": [
+                "/data/yang/ADHD/sub-61/ses-T1/anat/sub-61_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 61,
+            "image": [
+                "/data/yang/ADHD/sub-33/ses-T1/anat/sub-33_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 62,
+            "image": [
+                "/data/yang/ADHD/sub-41/ses-T1/anat/sub-41_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 63,
+            "image": [
+                "/data/yang/ADHD/sub-72/ses-T1/anat/sub-72_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 64,
+            "image": [
+                "/data/yang/ADHD/sub-32/ses-T1/anat/sub-32_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 65,
+            "image": [
+                "/data/yang/ADHD/sub-19/ses-T1/anat/sub-19_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 66,
+            "image": [
+                "/data/yang/ADHD/sub-74/ses-T1/anat/sub-74_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 67,
+            "image": [
+                "/data/yang/ADHD/sub-73/ses-T1/anat/sub-73_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 68,
+            "image": [
+                "/data/yang/ADHD/sub-44/ses-T1/anat/sub-44_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 69,
+            "image": [
+                "/data/yang/ADHD/sub-08/ses-T1/anat/sub-08_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 70,
+            "image": [
+                "/data/yang/ADHD/sub-40/ses-T1/anat/sub-40_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 71,
+            "image": [
+                "/data/yang/ADHD/sub-79/ses-T1/anat/sub-79_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 72,
+            "image": [
+                "/data/yang/ADHD/sub-17/ses-T1/anat/sub-17_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 73,
+            "image": [
+                "/data/yang/ADHD/sub-07/ses-T1/anat/sub-07_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 74,
+            "image": [
+                "/data/yang/ADHD/sub-49/ses-T1/anat/sub-49_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 75,
+            "image": [
+                "/data/yang/ADHD/sub-06/ses-T1/anat/sub-06_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 76,
+            "image": [
+                "/data/yang/ADHD/sub-14/ses-T1/anat/sub-14_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 77,
+            "image": [
+                "/data/yang/ADHD/sub-60/ses-T1/anat/sub-60_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 78,
+            "image": [
+                "/data/yang/ADHD/sub-50/ses-T1/anat/sub-50_ses-T1_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        }
+    ]
+}

@@ -1,0 +1,572 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "id": 0,
+            "image": [
+                "/data/yang/schizophrenia/sub-42/anat/sub-42_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 1,
+            "image": [
+                "/data/yang/schizophrenia/sub-10/anat/sub-10_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 2,
+            "image": [
+                "/data/yang/schizophrenia/sub-33/anat/sub-33_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 3,
+            "image": [
+                "/data/yang/schizophrenia/sub-05/anat/sub-05_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 4,
+            "image": [
+                "/data/yang/schizophrenia/sub-77/anat/sub-77_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 5,
+            "image": [
+                "/data/yang/schizophrenia/sub-57/anat/sub-57_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 6,
+            "image": [
+                "/data/yang/schizophrenia/sub-53/anat/sub-53_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 7,
+            "image": [
+                "/data/yang/schizophrenia/sub-03/anat/sub-03_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 8,
+            "image": [
+                "/data/yang/schizophrenia/sub-23/anat/sub-23_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 9,
+            "image": [
+                "/data/yang/schizophrenia/sub-76/anat/sub-76_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 10,
+            "image": [
+                "/data/yang/schizophrenia/sub-65/anat/sub-65_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 11,
+            "image": [
+                "/data/yang/schizophrenia/sub-71/anat/sub-71_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 12,
+            "image": [
+                "/data/yang/schizophrenia/sub-44/anat/sub-44_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 13,
+            "image": [
+                "/data/yang/schizophrenia/sub-45/anat/sub-45_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 14,
+            "image": [
+                "/data/yang/schizophrenia/sub-17/anat/sub-17_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 15,
+            "image": [
+                "/data/yang/schizophrenia/sub-54/anat/sub-54_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 16,
+            "image": [
+                "/data/yang/schizophrenia/sub-20/anat/sub-20_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 17,
+            "image": [
+                "/data/yang/schizophrenia/sub-13/anat/sub-13_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 18,
+            "image": [
+                "/data/yang/schizophrenia/sub-73/anat/sub-73_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 19,
+            "image": [
+                "/data/yang/schizophrenia/sub-60/anat/sub-60_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 20,
+            "image": [
+                "/data/yang/schizophrenia/sub-55/anat/sub-55_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 21,
+            "image": [
+                "/data/yang/schizophrenia/sub-18/anat/sub-18_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 22,
+            "image": [
+                "/data/yang/schizophrenia/sub-62/anat/sub-62_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 23,
+            "image": [
+                "/data/yang/schizophrenia/sub-74/anat/sub-74_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 24,
+            "image": [
+                "/data/yang/schizophrenia/sub-08/anat/sub-08_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 25,
+            "image": [
+                "/data/yang/schizophrenia/sub-27/anat/sub-27_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 26,
+            "image": [
+                "/data/yang/schizophrenia/sub-01/anat/sub-01_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 27,
+            "image": [
+                "/data/yang/schizophrenia/sub-50/anat/sub-50_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 28,
+            "image": [
+                "/data/yang/schizophrenia/sub-15/anat/sub-15_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 29,
+            "image": [
+                "/data/yang/schizophrenia/sub-66/anat/sub-66_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 30,
+            "image": [
+                "/data/yang/schizophrenia/sub-06/anat/sub-06_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 31,
+            "image": [
+                "/data/yang/schizophrenia/sub-61/anat/sub-61_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 32,
+            "image": [
+                "/data/yang/schizophrenia/sub-14/anat/sub-14_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 33,
+            "image": [
+                "/data/yang/schizophrenia/sub-16/anat/sub-16_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 34,
+            "image": [
+                "/data/yang/schizophrenia/sub-34/anat/sub-34_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 35,
+            "image": [
+                "/data/yang/schizophrenia/sub-32/anat/sub-32_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 36,
+            "image": [
+                "/data/yang/schizophrenia/sub-38/anat/sub-38_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 37,
+            "image": [
+                "/data/yang/schizophrenia/sub-04/anat/sub-04_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 38,
+            "image": [
+                "/data/yang/schizophrenia/sub-22/anat/sub-22_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 39,
+            "image": [
+                "/data/yang/schizophrenia/sub-56/anat/sub-56_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 40,
+            "image": [
+                "/data/yang/schizophrenia/sub-46/anat/sub-46_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 41,
+            "image": [
+                "/data/yang/schizophrenia/sub-25/anat/sub-25_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 42,
+            "image": [
+                "/data/yang/schizophrenia/sub-02/anat/sub-02_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 43,
+            "image": [
+                "/data/yang/schizophrenia/sub-47/anat/sub-47_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 44,
+            "image": [
+                "/data/yang/schizophrenia/sub-59/anat/sub-59_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 45,
+            "image": [
+                "/data/yang/schizophrenia/sub-07/anat/sub-07_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 46,
+            "image": [
+                "/data/yang/schizophrenia/sub-58/anat/sub-58_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 47,
+            "image": [
+                "/data/yang/schizophrenia/sub-29/anat/sub-29_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 48,
+            "image": [
+                "/data/yang/schizophrenia/sub-75/anat/sub-75_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 49,
+            "image": [
+                "/data/yang/schizophrenia/sub-37/anat/sub-37_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 50,
+            "image": [
+                "/data/yang/schizophrenia/sub-68/anat/sub-68_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 51,
+            "image": [
+                "/data/yang/schizophrenia/sub-64/anat/sub-64_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 52,
+            "image": [
+                "/data/yang/schizophrenia/sub-67/anat/sub-67_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 53,
+            "image": [
+                "/data/yang/schizophrenia/sub-26/anat/sub-26_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 54,
+            "image": [
+                "/data/yang/schizophrenia/sub-19/anat/sub-19_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 55,
+            "image": [
+                "/data/yang/schizophrenia/sub-48/anat/sub-48_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 56,
+            "image": [
+                "/data/yang/schizophrenia/sub-09/anat/sub-09_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 57,
+            "image": [
+                "/data/yang/schizophrenia/sub-12/anat/sub-12_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 58,
+            "image": [
+                "/data/yang/schizophrenia/sub-21/anat/sub-21_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 59,
+            "image": [
+                "/data/yang/schizophrenia/sub-36/anat/sub-36_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 60,
+            "image": [
+                "/data/yang/schizophrenia/sub-11/anat/sub-11_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 61,
+            "image": [
+                "/data/yang/schizophrenia/sub-40/anat/sub-40_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 62,
+            "image": [
+                "/data/yang/schizophrenia/sub-30/anat/sub-30_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 63,
+            "image": [
+                "/data/yang/schizophrenia/sub-49/anat/sub-49_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 64,
+            "image": [
+                "/data/yang/schizophrenia/sub-43/anat/sub-43_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 65,
+            "image": [
+                "/data/yang/schizophrenia/sub-24/anat/sub-24_T1w_std_sub.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 66,
+            "image": [
+                "/data/yang/schizophrenia/sub-69/anat/sub-69_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 67,
+            "image": [
+                "/data/yang/schizophrenia/sub-70/anat/sub-70_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 68,
+            "image": [
+                "/data/yang/schizophrenia/sub-72/anat/sub-72_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 69,
+            "image": [
+                "/data/yang/schizophrenia/sub-28/anat/sub-28_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 70,
+            "image": [
+                "/data/yang/schizophrenia/sub-63/anat/sub-63_T1w_std_sub.nii.gz"
+            ],
+            "label": 1
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "image": [
+                "ID_e37b5831_ID_340b792ec6.nii.gz"
+            ],
+            "label": "ID_e37b5831_ID_340b792ec6_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_39702b69_ID_167ab8c629.nii.gz"
+            ],
+            "label": "ID_39702b69_ID_167ab8c629_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_1cbe2853_ID_37afefdc7c.nii.gz"
+            ],
+            "label": "ID_1cbe2853_ID_37afefdc7c_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_a1703be5_ID_d0e02f0443.nii.gz"
+            ],
+            "label": "ID_a1703be5_ID_d0e02f0443_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_f4795940_ID_6317a06429.nii.gz"
+            ],
+            "label": "ID_f4795940_ID_6317a06429_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_fcbe7eda_ID_5726e1c630.nii.gz"
+            ],
+            "label": "ID_fcbe7eda_ID_5726e1c630_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_98450f26_ID_8d66ffdc94.nii.gz"
+            ],
+            "label": "ID_98450f26_ID_8d66ffdc94_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_5e405f44_ID_7a773f615f.nii.gz"
+            ],
+            "label": "ID_5e405f44_ID_7a773f615f_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_a9fe41fd_ID_ba000cea10.nii.gz"
+            ],
+            "label": "ID_a9fe41fd_ID_ba000cea10_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_6a6976ae_ID_97ae10a424.nii.gz"
+            ],
+            "label": "ID_6a6976ae_ID_97ae10a424_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_a84354a5_ID_6699da85bb.nii.gz"
+            ],
+            "label": "ID_a84354a5_ID_6699da85bb_KLY.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ID_2872834a_ID_542e9d00da.nii.gz"
+            ],
+            "label": "ID_2872834a_ID_542e9d00da_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_596dfbc1_ID_fe7dab2602.nii.gz"
+            ],
+            "label": "ID_596dfbc1_ID_fe7dab2602_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_977da27d_ID_7ca7e2a2e4.nii.gz"
+            ],
+            "label": "ID_977da27d_ID_7ca7e2a2e4_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_87385103_ID_684afaed55.nii.gz"
+            ],
+            "label": "ID_87385103_ID_684afaed55_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_09b33fc4_ID_bcd322d4ed.nii.gz"
+            ],
+            "label": "ID_09b33fc4_ID_bcd322d4ed_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_41a55df8_ID_ca0abe844a.nii.gz"
+            ],
+            "label": "ID_41a55df8_ID_ca0abe844a_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_05331dc6_ID_47213b7e2e.nii.gz"
+            ],
+            "label": "ID_05331dc6_ID_47213b7e2e_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_16ed917a_ID_145f184354.nii.gz"
+            ],
+            "label": "ID_16ed917a_ID_145f184354_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_daf22e49_ID_bf76e84f8d.nii.gz"
+            ],
+            "label": "ID_daf22e49_ID_bf76e84f8d_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_10c64d22_ID_4c9aad31ca.nii.gz"
+            ],
+            "label": "ID_10c64d22_ID_4c9aad31ca_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_b85bdbe9_ID_cb52cd5d53.nii.gz"
+            ],
+            "label": "ID_b85bdbe9_ID_cb52cd5d53_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_ccbe16e6_ID_706deb5ba2.nii.gz"
+            ],
+            "label": "ID_ccbe16e6_ID_706deb5ba2_KLY.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ID_089596a9_ID_ea71b57820.nii.gz"
+            ],
+            "label": "ID_089596a9_ID_ea71b57820_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_4ec93c83_ID_b76a4106f8.nii.gz"
+            ],
+            "label": "ID_4ec93c83_ID_b76a4106f8_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_56983eda_ID_a1eb0918d6.nii.gz"
+            ],
+            "label": "ID_56983eda_ID_a1eb0918d6_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_2334b45f_ID_9f31e831ac.nii.gz"
+            ],
+            "label": "ID_2334b45f_ID_9f31e831ac_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_9631ec18_ID_c205d02b10.nii.gz"
+            ],
+            "label": "ID_9631ec18_ID_c205d02b10_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_196704db_ID_4eb6296376.nii.gz"
+            ],
+            "label": "ID_196704db_ID_4eb6296376_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_e393f193_ID_c81bf5f45d.nii.gz"
+            ],
+            "label": "ID_e393f193_ID_c81bf5f45d_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_5f53ab26_ID_f1c7d54a53.nii.gz"
+            ],
+            "label": "ID_5f53ab26_ID_f1c7d54a53_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_3e481fc5_ID_750530c215.nii.gz"
+            ],
+            "label": "ID_3e481fc5_ID_750530c215_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_e714812a_ID_11a3b1afdc.nii.gz"
+            ],
+            "label": "ID_e714812a_ID_11a3b1afdc_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_181aab15_ID_062634d043.nii.gz"
+            ],
+            "label": "ID_181aab15_ID_062634d043_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_495ac92a_ID_4daa7b9cc7.nii.gz"
+            ],
+            "label": "ID_495ac92a_ID_4daa7b9cc7_KLY.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ID_ba3a77dd_ID_70715be365.nii.gz"
+            ],
+            "label": "ID_ba3a77dd_ID_70715be365_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_47aa2b3a_ID_95a9953aba.nii.gz"
+            ],
+            "label": "ID_47aa2b3a_ID_95a9953aba_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_96967deb_ID_5d782e9379.nii.gz"
+            ],
+            "label": "ID_96967deb_ID_5d782e9379_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_d79fa3ff_ID_90d02c54ba.nii.gz"
+            ],
+            "label": "ID_d79fa3ff_ID_90d02c54ba_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_e8691c40_ID_4e6812b21a.nii.gz"
+            ],
+            "label": "ID_e8691c40_ID_4e6812b21a_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_a9b3fedc_ID_3850bef0a3.nii.gz"
+            ],
+            "label": "ID_a9b3fedc_ID_3850bef0a3_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_73cae446_ID_852cb06998.nii.gz"
+            ],
+            "label": "ID_73cae446_ID_852cb06998_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_c1e1c4ef_ID_521bc36497.nii.gz"
+            ],
+            "label": "ID_c1e1c4ef_ID_521bc36497_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_d3d99dce_ID_cd10b6aba1.nii.gz"
+            ],
+            "label": "ID_d3d99dce_ID_cd10b6aba1_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_e1d9fe9d_ID_f73aea5186.nii.gz"
+            ],
+            "label": "ID_e1d9fe9d_ID_f73aea5186_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_f551e132_ID_25d41a6cfd.nii.gz"
+            ],
+            "label": "ID_f551e132_ID_25d41a6cfd_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_aaf2973d_ID_4002bc3ced.nii.gz"
+            ],
+            "label": "ID_aaf2973d_ID_4002bc3ced_KLY.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ID_727c946e_ID_e1fd84171a.nii.gz"
+            ],
+            "label": "ID_727c946e_ID_e1fd84171a_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_751df220_ID_4c26128a8d.nii.gz"
+            ],
+            "label": "ID_751df220_ID_4c26128a8d_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_552aabb9_ID_152fdcf86e.nii.gz"
+            ],
+            "label": "ID_552aabb9_ID_152fdcf86e_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_ed6be50a_ID_5c28e39de3.nii.gz"
+            ],
+            "label": "ID_ed6be50a_ID_5c28e39de3_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_0c6b97a9_ID_6011bb9ce8.nii.gz"
+            ],
+            "label": "ID_0c6b97a9_ID_6011bb9ce8_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_cb4c887c_ID_ec2a4643f3.nii.gz"
+            ],
+            "label": "ID_cb4c887c_ID_ec2a4643f3_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_95c4a59c_ID_47aa7ea02b.nii.gz"
+            ],
+            "label": "ID_95c4a59c_ID_47aa7ea02b_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_b3a33085_ID_175a5c4119.nii.gz"
+            ],
+            "label": "ID_b3a33085_ID_175a5c4119_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_0c3eef60_ID_6994ad7df0.nii.gz"
+            ],
+            "label": "ID_0c3eef60_ID_6994ad7df0_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_d039497d_ID_da6cc2290f.nii.gz"
+            ],
+            "label": "ID_d039497d_ID_da6cc2290f_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_94271e7f_ID_50fb725eb8.nii.gz"
+            ],
+            "label": "ID_94271e7f_ID_50fb725eb8_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_69b19057_ID_44d0da38f2.nii.gz"
+            ],
+            "label": "ID_69b19057_ID_44d0da38f2_KLY.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ID_a554892c_ID_7d5bccea0e.nii.gz"
+            ],
+            "label": "ID_a554892c_ID_7d5bccea0e_KLY.nii.gz"
+        }
+    ]
+}

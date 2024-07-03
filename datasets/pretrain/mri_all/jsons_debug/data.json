@@ -1,0 +1,48 @@
+{
+    "training":[
+      {
+            "fold": 0,
+            "image": [
+                "/data/iq-healthy-t1-mni/IXI-T1--IXI572-HH-2605-T1/t1-mni-brain_sub.nii.gz"
+            ],
+            "label": 0,
+            "id": 4922
+        },
+      {
+            "fold": 1,
+            "image": [
+                "/data/iq-healthy-t1-mni/IXI-T1--IXI572-HH-2605-T1/t1-mni-brain_sub.nii.gz"
+            ],
+            "label": 0,
+            "id": 4922
+        },{
+            "fold": 2,
+            "image": [
+                "/data/iq-healthy-t1-mni/IXI-T1--IXI572-HH-2605-T1/t1-mni-brain_sub.nii.gz"
+            ],
+            "label": 0,
+            "id": 4922
+        },
+      {
+            "fold": 3,
+            "image": [
+                "/data/iq-healthy-t1-mni/IXI-T1--IXI572-HH-2605-T1/t1-mni-brain_sub.nii.gz"
+            ],
+            "label": 0,
+            "id": 4922
+        },
+      {
+            "fold": 4,
+            "image": [
+                "/data/iq-healthy-t1-mni/IXI-T1--IXI572-HH-2605-T1/t1-mni-brain_sub.nii.gz"
+            ],
+            "label": 0,
+            "id": 4922
+        }
+    ],
+    "validation": {
+        "image": [
+            "/data/ct_soft_labeled_nii/77_5695129/files_01_Head_20171026151251_2_halfwayto_flip.nii.gz"
+        ]
+    }
+}

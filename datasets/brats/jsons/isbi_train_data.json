@@ -1,0 +1,214 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "image": [
+                "training/training01/preprocessed/training01_01_flair_pp.nii",
+                "training/training01/preprocessed/training01_01_pd_pp.nii",
+                "training/training01/preprocessed/training01_01_mprage_pp.nii",
+                "training/training01/preprocessed/training01_01_t2_pp.nii"
+            ],
+            "label": "training/training01/masks/training01_01_mask1.nii"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "training/training01/preprocessed/training01_02_flair_pp.nii",
+                "training/training01/preprocessed/training01_02_pd_pp.nii",
+                "training/training01/preprocessed/training01_02_mprage_pp.nii",
+                "training/training01/preprocessed/training01_02_t2_pp.nii"
+            ],
+            "label": "training/training01/masks/training01_02_mask1.nii"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "training/training01/preprocessed/training01_03_flair_pp.nii",
+                "training/training01/preprocessed/training01_03_pd_pp.nii",
+                "training/training01/preprocessed/training01_03_mprage_pp.nii",
+                "training/training01/preprocessed/training01_03_t2_pp.nii"
+            ],
+            "label": "training/training01/masks/training01_03_mask1.nii"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "training/training01/preprocessed/training01_04_flair_pp.nii",
+                "training/training01/preprocessed/training01_04_pd_pp.nii",
+                "training/training01/preprocessed/training01_04_mprage_pp.nii",
+                "training/training01/preprocessed/training01_04_t2_pp.nii"
+            ],
+            "label": "training/training01/masks/training01_04_mask1.nii"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "training/training02/preprocessed/training02_01_flair_pp.nii",
+                "training/training02/preprocessed/training02_01_pd_pp.nii",
+                "training/training02/preprocessed/training02_01_mprage_pp.nii",
+                "training/training02/preprocessed/training02_01_t2_pp.nii"
+            ],
+            "label": "training/training02/masks/training02_01_mask1.nii"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "training/training02/preprocessed/training02_02_flair_pp.nii",
+                "training/training02/preprocessed/training02_02_pd_pp.nii",
+                "training/training02/preprocessed/training02_02_mprage_pp.nii",
+                "training/training02/preprocessed/training02_02_t2_pp.nii"
+            ],
+            "label": "training/training02/masks/training02_02_mask1.nii"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "training/training02/preprocessed/training02_03_flair_pp.nii",
+                "training/training02/preprocessed/training02_03_pd_pp.nii",
+                "training/training02/preprocessed/training02_03_mprage_pp.nii",
+                "training/training02/preprocessed/training02_03_t2_pp.nii"
+            ],
+            "label": "training/training02/masks/training02_03_mask1.nii"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "training/training02/preprocessed/training02_04_flair_pp.nii",
+                "training/training02/preprocessed/training02_04_pd_pp.nii",
+                "training/training02/preprocessed/training02_04_mprage_pp.nii",
+                "training/training02/preprocessed/training02_04_t2_pp.nii"
+            ],
+            "label": "training/training02/masks/training02_04_mask1.nii"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "training/training03/preprocessed/training03_01_flair_pp.nii",
+                "training/training03/preprocessed/training03_01_pd_pp.nii",
+                "training/training03/preprocessed/training03_01_mprage_pp.nii",
+                "training/training03/preprocessed/training03_01_t2_pp.nii"
+            ],
+            "label": "training/training03/masks/training03_01_mask1.nii"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "training/training03/preprocessed/training03_02_flair_pp.nii",
+                "training/training03/preprocessed/training03_02_pd_pp.nii",
+                "training/training03/preprocessed/training03_02_mprage_pp.nii",
+                "training/training03/preprocessed/training03_02_t2_pp.nii"
+            ],
+            "label": "training/training03/masks/training03_02_mask1.nii"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "training/training03/preprocessed/training03_03_flair_pp.nii",
+                "training/training03/preprocessed/training03_03_pd_pp.nii",
+                "training/training03/preprocessed/training03_03_mprage_pp.nii",
+                "training/training03/preprocessed/training03_03_t2_pp.nii"
+            ],
+            "label": "training/training03/masks/training03_03_mask1.nii"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "training/training03/preprocessed/training03_04_flair_pp.nii",
+                "training/training03/preprocessed/training03_04_pd_pp.nii",
+                "training/training03/preprocessed/training03_04_mprage_pp.nii",
+                "training/training03/preprocessed/training03_04_t2_pp.nii"
+            ],
+            "label": "training/training03/masks/training03_04_mask1.nii"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "training/training03/preprocessed/training03_05_flair_pp.nii",
+                "training/training03/preprocessed/training03_05_pd_pp.nii",
+                "training/training03/preprocessed/training03_05_mprage_pp.nii",
+                "training/training03/preprocessed/training03_05_t2_pp.nii"
+            ],
+            "label": "training/training03/masks/training03_05_mask1.nii"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "training/training04/preprocessed/training04_01_flair_pp.nii",
+                "training/training04/preprocessed/training04_01_pd_pp.nii",
+                "training/training04/preprocessed/training04_01_mprage_pp.nii",
+                "training/training04/preprocessed/training04_01_t2_pp.nii"
+            ],
+            "label": "training/training04/masks/training04_01_mask1.nii"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "training/training04/preprocessed/training04_02_flair_pp.nii",
+                "training/training04/preprocessed/training04_02_pd_pp.nii",
+                "training/training04/preprocessed/training04_02_mprage_pp.nii",
+                "training/training04/preprocessed/training04_02_t2_pp.nii"
+            ],
+            "label": "training/training04/masks/training04_02_mask1.nii"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "training/training04/preprocessed/training04_03_flair_pp.nii",
+                "training/training04/preprocessed/training04_03_pd_pp.nii",
+                "training/training04/preprocessed/training04_03_mprage_pp.nii",
+                "training/training04/preprocessed/training04_03_t2_pp.nii"
+            ],
+            "label": "training/training04/masks/training04_03_mask1.nii"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "training/training04/preprocessed/training04_04_flair_pp.nii",
+                "training/training04/preprocessed/training04_04_pd_pp.nii",
+                "training/training04/preprocessed/training04_04_mprage_pp.nii",
+                "training/training04/preprocessed/training04_04_t2_pp.nii"
+            ],
+            "label": "training/training04/masks/training04_04_mask1.nii"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "training/training05/preprocessed/training05_01_flair_pp.nii",
+                "training/training05/preprocessed/training05_01_pd_pp.nii",
+                "training/training05/preprocessed/training05_01_mprage_pp.nii",
+                "training/training05/preprocessed/training05_01_t2_pp.nii"
+            ],
+            "label": "training/training05/masks/training05_01_mask1.nii"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "training/training05/preprocessed/training05_02_flair_pp.nii",
+                "training/training05/preprocessed/training05_02_pd_pp.nii",
+                "training/training05/preprocessed/training05_02_mprage_pp.nii",
+                "training/training05/preprocessed/training05_02_t2_pp.nii"
+            ],
+            "label": "training/training05/masks/training05_02_mask1.nii"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "training/training05/preprocessed/training05_03_flair_pp.nii",
+                "training/training05/preprocessed/training05_03_pd_pp.nii",
+                "training/training05/preprocessed/training05_03_mprage_pp.nii",
+                "training/training05/preprocessed/training05_03_t2_pp.nii"
+            ],
+            "label": "training/training05/masks/training05_03_mask1.nii"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "training/training05/preprocessed/training05_04_flair_pp.nii",
+                "training/training05/preprocessed/training05_04_pd_pp.nii",
+                "training/training05/preprocessed/training05_04_mprage_pp.nii",
+                "training/training05/preprocessed/training05_04_t2_pp.nii"
+            ],
+            "label": "training/training05/masks/training05_04_mask1.nii"
+        }
+    ]
+}

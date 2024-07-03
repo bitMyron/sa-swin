@@ -1,0 +1,1444 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "id": 0,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8762279/files_01_Head_XCARE_20180703150653_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 1,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8744867/files_01_Head_20180630140530_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 2,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9587366/files_01_Head_20181105151118_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 3,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8906883/files_HELICAL_BRAIN_20180726103331_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 4,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5160495/files_01_Head_Routine_20170817105744_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 5,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8860716/files_01_Head_20180719112608_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 6,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11130591/files_Brain_20190317134456_3_Tilt_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 7,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8763815/files_01_Head_20180703161248_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 8,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9812143/files_01_Head_20181206175937_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 9,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11482406/files_01_Head_NonCon_20190507051034_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 10,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5608162/files_01_Head_20171012133508_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 11,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8299696/files_01_Head_20180423114956_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 12,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7284743/files_01_Head_Routine_20171110143232_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 13,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7929297/files_01_Head_20180303111555_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 14,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10052178/files_01_Head_C_Spine_20190119040729_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 15,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9958861/files_01_Head_NonCon_20190106210237_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 16,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9964009/files_Brain_NON_CONTRAST_Head_20190107135311_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 17,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9021308/files_01_Head_Routine_20180828101635_2_Eq_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 18,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10933722/files_Brain_Helical_Non_Contrast_20190218202943_4_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 19,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9018088/files_01_Head_20180812010749_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 20,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8896174/files_01_Head_C_Spine_20180724222803_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 21,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_1444455/files_02_BrainNonConThinSlice_20151006111712_4_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 22,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_13088597/files_01_Head_20190819161620_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 23,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10959282/files_01_Brain_Routine_20190222141711_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 24,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11290118/files_01_Head_NonCon_20190407110709_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 25,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4036674/files_01_Brain_Non_Con_20170125121250_2_Tilt_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 26,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5640609/files_01_Head_20171018103252_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 27,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5279752/files_Brain_Fines_20170821125543_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 28,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10075712/files_Brain_Helical_Non_Contrast_20190123111450_4_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 29,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7617588/files_Non_Con_Brain_+_Bone_Head_20180109111807_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 30,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5619762/files_01_Head_20171014172648_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 31,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8444696/files_01_Head_20180514202647_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 32,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_1868471/files_01_Head_20151230170445_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 33,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9000169/files_01_Head_C_Spine_20180809080849_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 34,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9888607/files_Brain_Helical_Non_Contrast_20181218213508_4_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "id": 35,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_3859171/files_Brain_0.625mm_20161215045237_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 36,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_2929554/files_01_HeadNonCon_20160620150019_4_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 37,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8756356/files_01_Head_Routine_20180703102418_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 38,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9821470/files_01_HeadRoutine_20181209004010_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 39,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10813489/files_01a_Trauma_Head_CSpine_20190204100208_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 40,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_3842675/files_Brain_Non_Contrast_20161214134727_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 41,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7926680/files_01_HeadFast_20180222204915_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 42,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_3252862/files_Brain_Non_Contrast_20160824124229_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 43,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7999644/files_Brain_NON_CONTRAST_Head_20180306161102_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 44,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8691182/files_Brain_Fines_20180622151443_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 45,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_2415973/files_01_Head_20160418174401_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 46,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7753852/files_01_Head_20180130094703_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 47,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9946835/files_01_Head_20190103123923_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 48,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7925529/files_01_Brain_Routine_20180223100820_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 49,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5409007/files_01_Head_20170911131244_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 50,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8436096/files_01_Head_20180515120437_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 51,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5695183/files_Brain_Fines_20171026123749_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 52,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4410042/files_01a_IRIS_HeadRoutine_20170331125257_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 53,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5415471/files_01_Head_20170912085659_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 54,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10004784/files_01_Head_NonCon_20190112004036_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 55,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10895775/files_Brain_20190213104721_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 56,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9725040/files_Brain_NON_CONTRAST_Head_20181126094718_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 57,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11641712/files_01_Head_Routine_20190607133249_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 58,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8929077/files_Brain_Non_Contrast_20180730130620_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 59,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_1174761/files_Brain_NON_CONTRAST_Head_20150729114847_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 60,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7387247/files_01_Head_20171125153624_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 61,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9864554/files_Brain_C-_20190104135714_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 62,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8875771/files_01_Head_C_Spine_20180721191257_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 63,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9125397/files_01_Head_20180828113846_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 64,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9225283/files_Brain_Fines_20180912130048_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 65,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_3277679/files_01_Head_20160829213513_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 66,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_1814346/files_Brain_Non_Contrast_20151214121118_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 67,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8875713/files_01_Head_20180721162138_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 68,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8500873/files_Brain_Non_Contrast_20180523111930_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 69,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9785000/files_01_Head_20181204043206_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 70,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7739569/files_01_Head_20180125192824_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "id": 71,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9021308/files_01_Head_Routine_20180828101635_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 72,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8074530/files_01_Head_20180316164616_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 73,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_12052067/files_Brain_Non_ConT_20190805113556_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 74,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9148042/files_01_Head_20180831031858_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 75,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7547628/files_fine_axials_20171220124924_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 76,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7734351/files_01_Head_Routine_20180125142425_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 77,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_2872144/files_01_HeadRoutine_20160607144332_7_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 78,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10799331/files_Brain_Helical_WITH_BONE_WINDOWS_20190131210412_5_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 79,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10805417/files_Brain_Helical_Non_Contrast_20190201160937_4_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 80,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4483907/files_01_HeadRoutine_20170418130413_7_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 81,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7676705/files_01_Brain_Non_Con_20180117115545_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 82,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8249886/files_01_Head_20180414160333_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 83,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8327970/files_01_Head_20180426182142_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 84,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9177339/files_01_Head_20180904230448_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 85,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_2355787/files_01_BrainNonContrast_20160408102511_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 86,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11288856/files_01_Head_NonCon_20190406111906_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 87,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8831641/files_Brain_Helical_-C_Head_20180715090215_201_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 88,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9577257/files_Brain_Fines_20181113154658_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 89,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5699633/files_01_Head_20171027085920_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 90,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8512426/files_01_Brain_Routine_20180524121246_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 91,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_14283702/files_Brain_Thins_20200108123715_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 92,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8933166/files_01_Head_20180730165044_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 93,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_12938820/files_Brain_C-_0.625mm_20190808090716_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 94,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11341387/files_01_Head_NonCon_20190414234536_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 95,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7284497/files_01_Brain_Non_Con_20171110151706_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 96,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10866672/files_01_Head_NonCon_20190209182759_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 97,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9867449/files_01_Head_20181214201933_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 98,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_13151327/files_Brain_C-_0.625mm_20190829112522_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 99,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7350364/files_01_Head_20171120171408_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 100,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_12985030/files_Brain_Thins_20190806154336_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 101,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4432979/files_Brain_Fines_20170405101722_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 102,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8364572/files_Brain_Non_Contrast_20180502143427_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 103,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9928914/files_01_Head_20181230170909_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 104,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_80191/files_01_Brain_NonCon_20150124090302_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 105,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11998050/files_02A_Neuro_Perfusion_NEW_20190717212042_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "id": 106,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11106880/files_01_Head_NonCon_20190313152407_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "id": 107,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5341789/files_Helical_Head_-_DMPR_20170831100546_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 108,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_3837259/files_Brain_C-_ONLY_Head_20161212102620_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 109,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9429927/files_01_Head_20181012173016_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 110,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9095792/files_01_Head_20180823142906_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 111,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7741179/files_01_Head_20180127190756_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 112,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_13078389/files_01_Head_NonCon_20190818182126_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 113,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_1654496/files_fine_axials_20151111094142_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 114,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9355326/files_Brain_Helical_Non_Contrast_20181002172012_5_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 115,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9392583/files_01_Head_20181008155312_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 116,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9822223/files_01_NeuroPerfusion_20181210082044_3_Tilt_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 117,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_3127218/files_Brain_Non_Contrast_20160730172445_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 118,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4016528/files_01_Head_Routine_20170120135823_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 119,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10826041/files_01_Head_NonCon_20190205041608_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 120,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9842831/files_Brain_with_Bone_20181211192620_3_Tilt_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 121,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7458769/files_Brain_Fines_20171206125930_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 122,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_13048116/files_01_Head_C_Spine_20190813220307_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 123,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7513422/files_Brain_Helical_-C_Head_20171215110401_201_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 124,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9365261/files_01_Head_C_Spine_20181003194760_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 125,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4788505/files_Brain_Thins_20170610093309_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 126,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_1105287/files_Brain_Thins_20150708133225_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 127,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8947873/files_01_Head_20180803090224_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 128,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9289770/files_01_Brain_Routine_20180921144330_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 129,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9313592/files_03_Brain_Trauma_20180925130309_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 130,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_68119/files_Fine_Slices_20150113103549_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 131,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5743348/files_01_Head_20171102214001_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 132,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8743831/files_01_Head_20180629182807_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 133,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7434667/files_fine_axials_20171202075955_4_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 134,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11086543/files_01_Head_NonCon_20190311160830_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 135,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11091796/files_01_Head_NonCon_20190312114616_2_Tilt_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 136,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9186136/files_01_Head_20180905210743_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 137,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_13923137/files_0.625_Brain_Non_Con_20191114161507_301_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 138,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9869686/files_01_Head_NonCon_20181216190649_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 139,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9338524/files_01_Head_20181003090301_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 140,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10957038/files_01_Head_NonCon_20190221112015_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 141,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4762984/files_fine_axials_20170710114322_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "id": 142,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9576527/files_Brain_Fines_20181105124929_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "id": 143,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5516400/files_01_Head_20170926193933_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 144,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9160805/files_01_Brain_Routine_20180907100606_4_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 145,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9822223/files_01_NeuroPerfusion_20181210082044_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 146,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_258610/files_01a_IRIS_HeadRoutine_20150501151036_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 147,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8419260/files_01_Brain_Non_Con_20180511130855_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 148,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7284080/files_01_Brain_Non_Con_20171110154536_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 149,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_2160662/files_01_Head_20160227025646_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 150,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7699321/files_Brain_Fines_20180119141819_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 151,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8834842/files_01_Head_20180716140848_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 152,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9050406/files_fine_axials_20180817084411_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 153,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9576527/files_Brain_Fines_20181105124929_2_Eq_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 154,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9811329/files_Brain_20181206152346_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 155,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_1164658/files_Fine_Slices_20150727093042_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 156,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_13045671/files_01_Head_NonCon_20190813151733_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 157,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8478903/files_Brain_Fines_20180521125136_6_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 158,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5445521/files_Fine_Slices_20170914150921_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 159,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9887475/files_01_Head_NonCon_20181218161359_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 160,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9985005/files_Brain_20190109125703_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 161,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_13109608/files_Brain_Fines_20190827103117_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 162,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9991032/files_Brain_with_Contrast_20190110101208_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 163,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7526212/files_01_Head_20171216115638_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 164,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7482572/files_Brain_C-_ONLY_Head_20171209122051_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 165,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_10116842/files_01_Head_XCARE_20190130153330_3_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 166,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8700686/files_01_Head_20180623202728_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 167,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8297779/files_01_Head_20180422234239_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 168,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4550895/files_01_HeadRoutine_20170501112018_7_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 169,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11091796/files_01_Head_NonCon_20190312114616_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 170,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_8202911/files_01_Head_C_Spine_20180408180238_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 171,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7544366/files_01_Head_20171219235349_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 172,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_1859444/files_01_Head_20151227115836_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 173,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_11482406/files_01_Head_NonCon_20190507051034_2_Eq_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 174,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_9869686/files_01_Head_NonCon_20181216190649_2_Eq_1_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 175,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_7698775/files_fine_axials_20180119142321_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 176,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_4324460/files_Helical_head_20170317135147_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 177,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_5415349/files_01_Head_20170911002112_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "id": 178,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_355974/files_01_Head_20150531155658_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "id": 179,
+            "image": [
+                "/data/ct_soft_labeled_nii/77_2991671/files_01_Head_20160704032523_2_halfwayto_flip.nii.gz"
+            ],
+            "label": 1
+        }
+    ]
+}

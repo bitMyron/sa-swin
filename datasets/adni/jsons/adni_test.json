@@ -1,0 +1,1516 @@
+{
+    "training": [
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/153_S_4077/MPRAGE/2011-09-20_10_41_36.0/S122974/ADNI_153_S_4077_MR_MPRAGE_br_raw_20110921151522781_88_S122974_I257401-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/006_S_4346/MPRAGE/2012-05-24_08_58_05.0/S151502/ADNI_006_S_4346_MR_MPRAGE_br_raw_20120524112237908_107_S151502_I306275-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/135_S_5113/MPRAGE/2015-04-15_09_40_55.0/S255960/ADNI_135_S_5113_MR_MPRAGE_br_raw_20150417133241102_65_S255960_I487326-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/135_S_4309/MPRAGE/2015-11-11_08_38_05.0/S304908/ADNI_135_S_4309_MR_MPRAGE_br_raw_20151111143054906_158_S304908_I549849-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/067_S_2196/MPRAGE/2012-11-28_11_48_21.0/S175720/ADNI_067_S_2196_MR_MPRAGE_br_raw_20121128154342509_112_S175720_I348278-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/020_S_0883/MPRAGE/2006-09-15_13_03_24.0/S19460/ADNI_020_S_0883_MR_MPRAGE_br_raw_20060928132745625_138_S19460_I25284-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/072_S_4383/MPRAGE/2012-06-15_18_08_38.0/S154177/ADNI_072_S_4383_MR_MPRAGE_br_raw_20120618103008766_25_S154177_I310833-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/041_S_0679/MPRAGE/2006-07-20_10_19_53.0/S17077/ADNI_041_S_0679_MR_MPRAGE_br_raw_20060721094712221_98_S17077_I19378-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/009_S_4337/MPRAGE/2012-02-06_11_25_12.0/S139925/ADNI_009_S_4337_MR_MPRAGE_br_raw_20120207085709739_94_S139925_I283124-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/002_S_4270/MPRAGE/2012-01-10_07_21_04.0/S135921/ADNI_002_S_4270_MR_MPRAGE_br_raw_20120110151703739_143_S135921_I277128-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/013_S_4595/MPRAGE/2012-04-20_15_57_00.0/S148091/ADNI_013_S_4595_MR_MPRAGE_br_raw_20120423110043837_97_S148091_I300051-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/130_S_4468/MPRAGE/2012-05-10_10_21_03.0/S150039/ADNI_130_S_4468_MR_MPRAGE_br_raw_20120511115332960_135_S150039_I303042-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/130_S_4294/MPRAGE/2013-11-15_08_56_07.0/S206198/ADNI_130_S_4294_MR_MPRAGE_br_raw_20131115171506910_84_S206198_I398600-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/037_S_4308/MPRAGE/2016-03-02_07_58_48.0/S385534/ADNI_037_S_4308_MR_MPRAGE_br_raw_20160302114625095_142_S385534_I643361-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/012_S_5121/MPRAGE/2015-04-30_08_30_21.0/S258850/ADNI_012_S_5121_MR_MPRAGE_br_raw_20150508113643289_1_S258850_I491410-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/002_S_4654/MPRAGE/2012-10-23_07_20_43.0/S171813/ADNI_002_S_4654_MR_MPRAGE_br_raw_20121023122123736_159_S171813_I341805-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/082_S_4428/MPRAGE/2011-12-20_15_08_12.0/S134292/ADNI_082_S_4428_MR_MPRAGE_br_raw_20111221131241480_1_S134292_I273679-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/041_S_4271/MPRAGE/2011-10-07_16_09_41.0/S125037/ADNI_041_S_4271_MR_MPRAGE_br_raw_20111011124607848_69_S125037_I260507-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/114_S_4404/MPRAGE/2012-01-20_18_23_22.0/S138134/ADNI_114_S_4404_MR_MPRAGE_br_raw_20120123074323619_55_S138134_I280052-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/003_S_1074/MPRAGE/2013-07-29_09_38_32.0/S197122/ADNI_003_S_1074_MR_MPRAGE_br_raw_20130801222843855_39_S197122_I384100-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/068_S_2168/MPRAGE/2010-11-01_15_14_58.0/S94292/ADNI_068_S_2168_MR_MPRAGE_br_raw_20101105101616430_122_S94292_I202818-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/099_S_0051/MPRAGE/2005-11-15_18_49_32.0/S10325/ADNI_099_S_0051_MR_MPRAGE_br_raw_20051129140308484_98_S10325_I9066-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/016_S_1326/MPRAGE/2012-06-07_11_11_17.0/S154164/ADNI_016_S_1326_MR_MPRAGE_br_raw_20120618095717004_81_S154164_I310807-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/032_S_4386/MPRAGE/2011-12-13_10_30_18.0/S133449/ADNI_032_S_4386_MR_MPRAGE_br_raw_20111216100730796_153_S133449_I272396-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/114_S_1118/MPRAGE/2008-01-15_13_41_42.0/S44936/ADNI_114_S_1118_MR_MPRAGE_br_raw_20080125153439468_98_S44936_I88629-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/009_S_5176/MPRAGE/2013-05-15_11_05_03.0/S189563/ADNI_009_S_5176_MR_MPRAGE_br_raw_20130516000249703_55_S189563_I372556-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/135_S_4489/MPRAGE/2012-02-02_09_15_07.0/S139411/ADNI_135_S_4489_MR_MPRAGE_br_raw_20120202101507417_136_S139411_I282260-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/013_S_1120/MPRAGE/2007-06-05_12_04_39.0/S33144/ADNI_013_S_1120_MR_MPRAGE_br_raw_20070606161053906_98_S33144_I56188-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/041_S_4051/MPRAGE/2011-09-23_16_06_29.0/S123373/ADNI_041_S_4051_MR_MPRAGE_br_raw_20110926115358986_99_S123373_I257968-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/941_S_1202/MPRAGE/2007-08-24_06_49_01.0/S38468/ADNI_941_S_1202_MR_MPRAGE_br_raw_20070827132107284_98_S38468_I70419-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/135_S_4356/MPRAGE/2015-12-08_08_38_42.0/S325408/ADNI_135_S_4356_MR_MPRAGE_br_raw_20151208101448155_130_S325408_I573502-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/068_S_4332/MPRAGE/2012-03-09_10_38_41.0/S143697/ADNI_068_S_4332_MR_MPRAGE_br_raw_20120313102256589_120_S143697_I289941-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/016_S_1092/MPRAGE/2006-12-11_14_49_03.0/S23826/ADNI_016_S_1092_MR_MPRAGE_br_raw_20061212100041923_98_S23826_I32638-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/041_S_0549/MPRAGE/2007-10-16_15_02_33.0/S41634/ADNI_041_S_0549_MR_MPRAGE_br_raw_20071017120624859_108_S41634_I78024-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/068_S_4217/MPRAGE/2011-12-14_07_29_28.0/S133214/ADNI_068_S_4217_MR_MPRAGE_br_raw_20111215130525565_58_S133214_I272048-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/073_S_4216/MPRAGE/2013-10-22_14_36_31.0/S204742/ADNI_073_S_4216_MR_MPRAGE_br_raw_20131023111320076_36_S204742_I395745-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/023_S_4034/MPRAGE/2011-11-16_16_46_49.0/S130061/ADNI_023_S_4034_MR_MPRAGE_br_raw_20111212102122625_154_S130061_I267445-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/010_S_0420/MPRAGE/2006-06-15_15_41_24.0/S15582/ADNI_010_S_0420_MR_MPRAGE_br_raw_20060615171141690_49_S15582_I17078-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/073_S_4311/MPRAGE/2013-12-10_11_56_50.0/S207911/ADNI_073_S_4311_MR_MPRAGE_br_raw_20131211125321217_113_S207911_I401237-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/068_S_4217/MPRAGE/2012-05-07_08_10_08.0/S149543/ADNI_068_S_4217_MR_MPRAGE_br_raw_20120508150539813_4_S149543_I302325-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/128_S_4671/MPRAGE/2012-12-09_11_20_41.0/S176980/ADNI_128_S_4671_MR_MPRAGE_br_raw_20121210132000382_92_S176980_I350474-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/073_S_4403/MPRAGE/2012-02-17_14_52_51.0/S141203/ADNI_073_S_4403_MR_MPRAGE_br_raw_20120217165532140_23_S141203_I285639-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/036_S_0656/MPRAGE/2009-07-23_13_38_06.0/S70534/ADNI_036_S_0656_MR_MPRAGE_br_raw_20090723193003782_1_S70534_I150230-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/941_S_2060/MPRAGE/2010-12-06_13_08_47.0/S95852/ADNI_941_S_2060_MR_MPRAGE_br_raw_20101206152127379_162_S95852_I207565-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/130_S_4817/MPRAGE/2012-10-15_07_30_57.0/S170920/ADNI_130_S_4817_MR_MPRAGE_br_raw_20121016105321611_1_S170920_I340207-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/072_S_4131/MPRAGE/2012-02-08_10_36_30.0/S140195/ADNI_072_S_4131_MR_MPRAGE_br_raw_20120208154421158_58_S140195_I283508-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/018_S_4868/MPRAGE/2016-08-18_13_52_39.0/S492564/ADNI_018_S_4868_MR_MPRAGE_br_raw_20160819101317969_1_S492564_I767920-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/153_S_2148/MPRAGE/2010-10-26_17_51_48.0/S93769/ADNI_153_S_2148_MR_MPRAGE_br_raw_20101026193925656_53_S93769_I199312-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/067_S_4212/MPRAGE/2012-03-23_09_36_25.0/S144607/ADNI_067_S_4212_MR_MPRAGE_br_raw_20120323120015455_142_S144607_I292461-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/023_S_4796/MPRAGE/2012-11-20_09_56_40.0/S175117/ADNI_023_S_4796_MR_MPRAGE_br_raw_20121120134936773_133_S175117_I347377-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/137_S_0301/MPRAGE/2013-04-16_11_25_04.0/S187103/ADNI_137_S_0301_MR_MPRAGE_br_raw_20130416135823692_137_S187103_I367414-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/141_S_4438/MPRAGE/2012-01-06_18_09_00.0/S135885/ADNI_141_S_4438_MR_MPRAGE_br_raw_20120110151348749_169_S135885_I277022-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/073_S_4795/MPRAGE/2014-12-03_14_54_49.0/S242482/ADNI_073_S_4795_MR_MPRAGE_br_raw_20141205140640986_95_S242482_I460666-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/128_S_2123/MPRAGE/2012-11-06_15_47_09.0/S173671/ADNI_128_S_2123_MR_MPRAGE_br_raw_20121107151456777_140_S173671_I344532-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/941_S_4420/MPRAGE/2012-12-21_10_15_17.0/S178572/ADNI_941_S_4420_MR_MPRAGE_br_raw_20121221141622614_164_S178572_I352818-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/019_S_4293/MPRAGE/2012-01-10_10_33_23.0/S135993/ADNI_019_S_4293_MR_MPRAGE_br_raw_20120111111423454_156_S135993_I277285-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/022_S_4291/MPRAGE/2014-02-12_13_37_35.0/S213161/ADNI_022_S_4291_MR_MPRAGE_br_raw_20140221154240095_34_S213161_I415168-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/024_S_4280/MPRAGE/2011-10-18_13_11_34.0/S125582/ADNI_024_S_4280_MR_MPRAGE_br_raw_20111018163207473_117_S125582_I261332-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/011_S_4893/MPRAGE/2016-09-22_15_16_31.0/S502325/ADNI_011_S_4893_MR_MPRAGE_br_raw_20160928104422964_71_S502325_I779814-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/116_S_4092/MPRAGE/2011-06-24_08_54_40.0/S112544/ADNI_116_S_4092_MR_MPRAGE_br_raw_20110624151136233_164_S112544_I241692-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/072_S_4522/MPRAGE/2012-05-17_16_16_14.0/S150966/ADNI_072_S_4522_MR_MPRAGE_br_raw_20120518085933263_155_S150966_I305176-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/009_S_4543/MPRAGE/2012-03-01_16_42_01.0/S142501/ADNI_009_S_4543_MR_MPRAGE_br_raw_20120303140502687_46_S142501_I287795-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/002_S_4171/MPRAGE/2012-02-29_12_53_13.0/S142180/ADNI_002_S_4171_MR_MPRAGE_br_raw_20120229150024441_103_S142180_I287279-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/036_S_0945/MPRAGE/2007-06-11_13_21_46.0/S33381/ADNI_036_S_0945_MR_MPRAGE_br_raw_20070611184616955_1_S33381_I56637-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/941_S_4036/MPRAGE/2011-05-10_14_06_20.0/S109400/ADNI_941_S_4036_MR_MPRAGE_br_raw_20110519142030340_55_S109400_I235784-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/031_S_4218/MPRAGE/2012-03-23_14_27_45.0/S144630/ADNI_031_S_4218_MR_MPRAGE_br_raw_20121016182702812_47_S144630_I292597-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/036_S_0656/MPRAGE/2007-01-22_12_22_57.0/S25376/ADNI_036_S_0656_MR_MPRAGE_br_raw_20070123091523923_1_S25376_I37173-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/002_S_4799/MPRAGE/2016-07-26_16_06_19.0/S497582/ADNI_002_S_4799_MR_MPRAGE_br_raw_20160907130005364_1_S497582_I774043-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/109_S_1114/MPRAGE/2008-07-15_16_57_16.0/S53526/ADNI_109_S_1114_MR_MPRAGE_br_raw_20080716224335150_1_S53526_I113368-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/041_S_0314/MPRAGE/2006-03-28_11_26_06.0/S12492/ADNI_041_S_0314_MR_MPRAGE_br_raw_20060328151531915_98_S12492_I12475-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/041_S_4876/MPRAGE/2012-08-14_12_30_07.0/S161044/ADNI_041_S_4876_MR_MPRAGE_br_raw_20120816123957185_173_S161044_I324110-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/137_S_4587/MPRAGE/2016-05-05_12_04_21.0/S434438/ADNI_137_S_4587_MR_MPRAGE_br_raw_20160505144638378_133_S434438_I700093-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/012_S_4094/MPRAGE/2011-07-07_13_21_27.0/S114032/ADNI_012_S_4094_MR_MPRAGE_br_raw_20110708124142124_10_S114032_I243881-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/037_S_4302/MPRAGE/2012-05-30_15_16_37.0/S151954/ADNI_037_S_4302_MR_MPRAGE_br_raw_20120530155823061_56_S151954_I306933-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/070_S_4708/MPRAGE/2012-05-15_09_42_40.0/S150473/ADNI_070_S_4708_MR_MPRAGE_br_raw_20120515152045873_169_S150473_I304232-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/051_S_5285/MPRAGE/2016-05-03_13_17_59.0/S433894/ADNI_051_S_5285_MR_MPRAGE_br_raw_20160504152026075_47_S433894_I699448-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/137_S_4303/MPRAGE/2012-02-27_13_41_06.0/S141870/ADNI_137_S_4303_MR_MPRAGE_br_raw_20120228074224679_121_S141870_I286776-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/135_S_5269/MPRAGE/2013-07-26_15_25_33.0/S196646/ADNI_135_S_5269_MR_MPRAGE_br_raw_20130726163709209_1_S196646_I382724-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/041_S_5097/MPRAGE/2013-03-19_10_57_24.0/S184764/ADNI_041_S_5097_MR_MPRAGE_br_raw_20130320081500987_161_S184764_I363765-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/018_S_2133/MPRAGE/2014-12-09_11_03_29.0/S242677/ADNI_018_S_2133_MR_MPRAGE_br_raw_20141209151155163_45_S242677_I460914-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/013_S_0240/MPRAGE/2006-03-20_10_02_16.0/S12307/ADNI_013_S_0240_MR_MPRAGE_br_raw_20060321113856155_95_S12307_I12164-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/128_S_4571/MPRAGE/2012-06-26_15_34_25.0/S155738/ADNI_128_S_4571_MR_MPRAGE_br_raw_20120627124413929_97_S155738_I313111-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/037_S_0454/MPRAGE/2015-07-15_16_09_58.0/S266342/ADNI_037_S_0454_MR_MPRAGE_br_raw_20150716095557993_64_S266342_I501661-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/013_S_2324/MPRAGE/2011-03-25_13_28_32.0/S102467/ADNI_013_S_2324_MR_MPRAGE_br_raw_20110328152402908_29_S102467_I225055-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/012_S_4188/MPRAGE/2012-05-02_13_22_56.0/S149177/ADNI_012_S_4188_MR_MPRAGE_br_raw_20120504145947942_1_S149177_I301833-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/018_S_0142/MPRAGE/2013-03-01_09_19_22.0/S183479/ADNI_018_S_0142_MR_MPRAGE_br_raw_20130301112720361_48_S183479_I361747-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/073_S_2190/MPRAGE/2011-03-04_16_33_14.0/S100997/ADNI_073_S_2190_MR_MPRAGE_br_raw_20110304173324880_52_S100997_I222622-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/128_S_4609/MPRAGE/2012-04-04_18_23_10.0/S146436/ADNI_128_S_4609_MR_MPRAGE_br_raw_20120405123944803_83_S146436_I296085-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/116_S_4195/MPRAGE/2011-08-31_14_22_10.0/S121073/ADNI_116_S_4195_MR_MPRAGE_br_raw_20110901175610510_89_S121073_I254248-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/041_S_4629/MPRAGE/2012-07-09_11_50_42.0/S157035/ADNI_041_S_4629_MR_MPRAGE_br_raw_20120710083847165_94_S157035_I315574-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/013_S_4917/MPRAGE/2013-08-06_15_53_50.0/S201000/ADNI_013_S_4917_MR_MPRAGE_br_raw_20130916182626226_89_S201000_I390424-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/051_S_1123/MPRAGE/2015-02-18_13_51_51.0/S249035/ADNI_051_S_1123_MR_MPRAGE_br_raw_20150218153509942_28_S249035_I473756-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/053_S_2357/MPRAGE/2013-05-29_11_33_15.0/S190946/ADNI_053_S_2357_MR_MPRAGE_br_raw_20130529163102234_84_S190946_I374521-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/036_S_0976/MPRAGE/2006-12-12_11_33_31.0/S23852/ADNI_036_S_0976_MR_MPRAGE_br_raw_20061212135823286_1_S23852_I32726-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/023_S_5120/MPRAGE/2013-05-15_11_24_18.0/S189444/ADNI_023_S_5120_MR_MPRAGE_br_raw_20130515153204411_124_S189444_I372408-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/072_S_4063/MPRAGE/2011-12-19_11_01_31.0/S134032/ADNI_072_S_4063_MR_MPRAGE_br_raw_20111220125557143_19_S134032_I273334-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/073_S_4155/MPRAGE/2011-07-28_15_11_46.0/S116720/ADNI_073_S_4155_MR_MPRAGE_br_raw_20110728173009254_2_S116720_I247636-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/036_S_1240/MPRAGE/2007-02-13_14_41_05.0/S26423/ADNI_036_S_1240_MR_MPRAGE_br_raw_20070213152428966_1_S26423_I39884-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/057_S_0464/MPRAGE/2006-05-17_14_08_28.0/S14736/ADNI_057_S_0464_MR_MPRAGE_br_raw_20060519114039640_92_S14736_I15726-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/009_S_4324/MPRAGE/2012-01-31_11_56_25.0/S139027/ADNI_009_S_4324_MR_MPRAGE_br_raw_20120131182847234_84_S139027_I281698-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/068_S_4134/MPRAGE/2011-10-31_12_00_17.0/S127408/ADNI_068_S_4134_MR_MPRAGE_br_raw_20111031150447553_99_S127408_I263892-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/032_S_0214/MPRAGE/2013-04-17_15_26_59.0/S269200/ADNI_032_S_0214_MR_MPRAGE_br_raw_20150819160912022_3_S269200_I505743-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/036_S_4878/MPRAGE/2014-08-04_15_34_04.0/S227420/ADNI_036_S_4878_MR_MPRAGE_br_raw_20140813144432341_134_S227420_I439207-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/073_S_0909/MPRAGE/2009-12-07_14_45_09.0/S77038/ADNI_073_S_0909_MR_MPRAGE_br_raw_20091207173049224_63_S77038_I160495-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/137_S_0668/MPRAGE/2016-10-05_11_09_36.0/S503444/ADNI_137_S_0668_MR_MPRAGE_br_raw_20161005122840376_57_S503444_I781131-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/036_S_4715/MPRAGE/2014-06-02_14_20_06.0/S221458/ADNI_036_S_4715_MR_MPRAGE_br_raw_20140603131118144_94_S221458_I429594-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/136_S_4408/MPRAGE/2012-08-01_13_31_08.0/S165991/ADNI_136_S_4408_MR_MPRAGE_br_raw_20120904170240746_48_S165991_I330136-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/062_S_1299/MPRAGE/2009-03-11_10_29_22.0/S64380/ADNI_062_S_1299_MR_MPRAGE_br_raw_20090311162225852_98_S64380_I138475-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/035_S_0292/MPRAGE/2008-04-03_14_13_36.0/S47900/ADNI_035_S_0292_MR_MPRAGE_br_raw_20080403160542424_63_S47900_I100498-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/012_S_4643/MPRAGE/2016-04-28_08_00_27.0/S506572/ADNI_012_S_4643_MR_MPRAGE_br_raw_20161019133609584_109_S506572_I784918-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/135_S_4657/MPRAGE/2012-04-12_13_11_37.0/S147060/ADNI_135_S_4657_MR_MPRAGE_br_raw_20120412141545566_116_S147060_I297169-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/053_S_5202/MPRAGE/2013-06-07_12_12_16.0/S191745/ADNI_053_S_5202_MR_MPRAGE_br_raw_20130607140611812_33_S191745_I375693-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/041_S_4014/MPRAGE/2013-06-05_12_09_15.0/S191426/ADNI_041_S_4014_MR_MPRAGE_br_raw_20130606090117463_89_S191426_I375279-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/002_S_5256/MPRAGE/2015-09-10_07_10_13.0/S273422/ADNI_002_S_5256_MR_MPRAGE_br_raw_20150911150125741_157_S273422_I511016-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/072_S_4613/MPRAGE/2014-05-19_10_56_18.0/S258562/ADNI_072_S_4613_MR_MPRAGE_br_raw_20150507100119795_158_S258562_I491067-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/002_S_0413/MPRAGE/2011-06-16_12_27_07.0/S111992/ADNI_002_S_0413_MR_MPRAGE_br_raw_20110617102624650_40_S111992_I240812-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/099_S_0051/MPRAGE/2007-07-03_07_52_34.0/S34360/ADNI_099_S_0051_MR_MPRAGE_br_raw_20070703083343617_60_S34360_I58400-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/037_S_4030/MPRAGE/2011-11-28_10_49_38.0/S131082/ADNI_037_S_4030_MR_MPRAGE_br_raw_20111128133518001_163_S131082_I268876-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/013_S_4985/MPRAGE/2013-04-11_12_17_03.0/S186933/ADNI_013_S_4985_MR_MPRAGE_br_raw_20130415123134704_119_S186933_I367166-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/002_S_4229/MPRAGE/2011-12-21_19_39_12.0/S134609/ADNI_002_S_4229_MR_MPRAGE_br_raw_20111222132522009_55_S134609_I274131-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/137_S_4482/MPRAGE/2016-03-18_09_15_31.0/S397339/ADNI_137_S_4482_MR_MPRAGE_br_raw_20160318111435725_35_S397339_I656646-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/023_S_4115/MPRAGE/2013-09-30_12_47_00.0/S202861/ADNI_023_S_4115_MR_MPRAGE_br_raw_20131002151922171_109_S202861_I393097-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/013_S_0860/MPRAGE/2006-09-21_14_14_36.0/S19237/ADNI_013_S_0860_MR_MPRAGE_br_raw_20060922155746844_95_S19237_I24925-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/035_S_0204/MPRAGE/2009-03-05_15_41_27.0/S68199/ADNI_035_S_0204_MR_MPRAGE_br_raw_20090602182731621_98_S68199_I145318-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/099_S_4565/MPRAGE/2012-06-19_12_54_25.0/S154531/ADNI_099_S_4565_MR_MPRAGE_br_raw_20120619134856332_132_S154531_I311297-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/073_S_4312/MPRAGE/2013-12-10_10_38_40.0/S207904/ADNI_073_S_4312_MR_MPRAGE_br_raw_20131211125101555_17_S207904_I401229-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/035_S_0033/MPRAGE/2006-05-30_10_15_29.0/S15110/ADNI_035_S_0033_MR_MPRAGE_br_raw_20060601131106210_98_S15110_I16328-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/073_S_2191/MPRAGE/2013-03-22_08_32_23.0/S185057/ADNI_073_S_2191_MR_MPRAGE_br_raw_20130322111025297_37_S185057_I364178-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/114_S_5047/MPRAGE/2013-06-24_09_01_34.0/S193471/ADNI_114_S_5047_MR_MPRAGE_br_raw_20130626164710559_157_S193471_I378266-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/099_S_0054/MPRAGE/2006-07-14_09_27_31.0/S16797/ADNI_099_S_0054_MR_MPRAGE_br_raw_20060714105708203_63_S16797_I18947-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/032_S_1169/MPRAGE/2013-02-04_16_28_31.0/S181805/ADNI_032_S_1169_MR_MPRAGE_br_raw_20130208130520569_89_S181805_I358482-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/135_S_4489/MPRAGE/2012-08-02_09_11_35.0/S159329/ADNI_135_S_4489_MR_MPRAGE_br_raw_20120802122757461_85_S159329_I321169-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/016_S_0702/MPRAGE/2010-08-31_11_35_12.0/S91997/ADNI_016_S_0702_MR_MPRAGE_br_raw_20100910154245614_74_S91997_I192620-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/073_S_2264/MPRAGE/2011-05-04_09_14_27.0/S107728/ADNI_073_S_2264_MR_MPRAGE_br_raw_20110504114932966_45_S107728_I232922-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/011_S_4075/MPRAGE/2011-06-10_15_37_01.0/S111256/ADNI_011_S_4075_MR_MPRAGE_br_raw_20110610163924528_171_S111256_I239736-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/018_S_4349/MPRAGE/2011-11-15_10_17_11.0/S129394/ADNI_018_S_4349_MR_MPRAGE_br_raw_20111115135850836_96_S129394_I266625-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/053_S_0919/MPRAGE/2013-12-05_14_15_16.0/S207303/ADNI_053_S_0919_MR_MPRAGE_br_raw_20131205162632625_155_S207303_I400357-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/041_S_1420/MPRAGE/2007-09-24_10_54_54.0/S39952/ADNI_041_S_1420_MR_MPRAGE_br_raw_20070925123539812_98_S39952_I75134-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/137_S_4520/MPRAGE/2016-04-01_12_09_29.0/S407205/ADNI_137_S_4520_MR_MPRAGE_br_raw_20160401131707708_71_S407205_I667742-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/033_S_4176/MPRAGE/2013-09-04_14_22_52.0/S199826/ADNI_033_S_4176_MR_MPRAGE_br_raw_20130909103249146_138_S199826_I388340-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/036_S_0945/MPRAGE/2008-05-27_09_22_43.0/S50577/ADNI_036_S_0945_MR_MPRAGE_br_raw_20080527100741844_1_S50577_I106788-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/082_S_4339/MPRAGE/2011-11-09_15_22_10.0/S128898/ADNI_082_S_4339_MR_MPRAGE_br_raw_20111110142444516_129_S128898_I265938-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/153_S_5261/MPRAGE/2013-07-25_08_42_51.0/S196429/ADNI_153_S_5261_MR_MPRAGE_br_raw_20130725111625468_85_S196429_I382458-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/033_S_4176/MPRAGE/2016-01-12_10_23_27.0/S346917/ADNI_033_S_4176_MR_MPRAGE_br_raw_20160112124559820_26_S346917_I598190-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/072_S_4226/MPRAGE/2013-10-04_09_28_52.0/S258794/ADNI_072_S_4226_MR_MPRAGE_br_raw_20150507231127851_115_S258794_I491341-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/023_S_4241/MPRAGE/2012-05-01_14_27_08.0/S148839/ADNI_023_S_4241_MR_MPRAGE_br_raw_20120501161043289_96_S148839_I301338-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/041_S_4513/MPRAGE/2012-05-21_11_33_36.0/S151167/ADNI_041_S_4513_MR_MPRAGE_br_raw_20120521171509111_1_S151167_I305627-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/006_S_5153/MPRAGE/2013-04-22_12_23_26.0/S187543/ADNI_006_S_5153_MR_MPRAGE_br_raw_20130422151103640_137_S187543_I368152-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/072_S_2093/MPRAGE/2012-10-11_09_58_26.0/S170472/ADNI_072_S_2093_MR_MPRAGE_br_raw_20121011134038614_156_S170472_I339529-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/032_S_2247/MPRAGE/2016-03-09_15_28_41.0/S391589/ADNI_032_S_2247_MR_MPRAGE_br_raw_20160310081723298_90_S391589_I650134-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/123_S_4096/MPRAGE/2011-10-28_09_32_32.0/S126863/ADNI_123_S_4096_MR_MPRAGE_br_raw_20111028121457831_11_S126863_I263104-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/941_S_1311/MPRAGE/2007-03-02_15_39_15.0/S27409/ADNI_941_S_1311_MR_MPRAGE_br_raw_20070302221004109_98_S27409_I42333-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/128_S_4607/MPRAGE/2012-03-26_06_35_09.0/S144704/ADNI_128_S_4607_MR_MPRAGE_br_raw_20120326110850912_176_S144704_I293375-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/016_S_1028/MPRAGE/2007-07-09_10_41_56.0/S36286/ADNI_016_S_1028_MR_MPRAGE_br_raw_20070724145848334_98_S36286_I61997-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/114_S_1106/MPRAGE/2008-06-23_13_30_22.0/S52632/ADNI_114_S_1106_MR_MPRAGE_br_raw_20080630103218237_98_S52632_I111725-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/053_S_4661/MPRAGE/2012-12-05_11_32_21.0/S500514/ADNI_053_S_4661_MR_MPRAGE_br_raw_20160920191636187_97_S500514_I777652-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/035_S_4082/MPRAGE/2011-06-28_15_17_06.0/S112905/ADNI_035_S_4082_MR_MPRAGE_br_raw_20110628172140545_27_S112905_I242274-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/057_S_0779/MPRAGE/2007-09-12_13_43_52.0/S39178/ADNI_057_S_0779_MR_MPRAGE_br_raw_20070912151826484_63_S39178_I72730-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/018_S_4597/MPRAGE/2012-08-07_11_37_56.0/S159766/ADNI_018_S_4597_MR_MPRAGE_br_raw_20120807143533383_100_S159766_I321921-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/100_S_5106/MPRAGE/2013-04-22_12_17_10.0/S187718/ADNI_100_S_5106_MR_MPRAGE_br_raw_20130423145847925_10_S187718_I368412-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/067_S_2304/MPRAGE/2015-02-27_11_10_58.0/S250408/ADNI_067_S_2304_MR_MPRAGE_br_raw_20150303095945434_85_S250408_I475632-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/073_S_4552/MPRAGE/2016-05-16_14_08_48.0/S516943/ADNI_073_S_4552_MR_MPRAGE_br_raw_20161201103144314_55_S516943_I797155-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/019_S_4548/MPRAGE/2012-08-27_11_30_48.0/S162755/ADNI_019_S_4548_MR_MPRAGE_br_raw_20120828093958983_129_S162755_I326517-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/053_S_5296/MPRAGE/2015-12-18_08_12_35.0/S333717/ADNI_053_S_5296_MR_MPRAGE_br_raw_20151218124458247_26_S333717_I583247-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/041_S_1425/MPRAGE/2010-08-16_12_35_04.0/S90928/ADNI_041_S_1425_MR_MPRAGE_br_raw_20100820104540768_68_S90928_I191012-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/002_S_4219/MPRAGE/2011-12-15_14_46_33.0/S133915/ADNI_002_S_4219_MR_MPRAGE_br_raw_20111219125238629_152_S133915_I273183-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/116_S_4195/MPRAGE/2013-08-29_13_28_07.0/S199962/ADNI_116_S_4195_MR_MPRAGE_br_raw_20130909124011588_40_S199962_I388747-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/128_S_4842/MPRAGE/2012-11-07_15_10_55.0/S174998/ADNI_128_S_4842_MR_MPRAGE_br_raw_20121119125149295_68_S174998_I347209-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/073_S_4552/MPRAGE/2012-02-15_12_45_50.0/S140944/ADNI_073_S_4552_MR_MPRAGE_br_raw_20120215154934047_48_S140944_I285080-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/135_S_4598/MPRAGE/2014-04-21_12_02_29.0/S216639/ADNI_135_S_4598_MR_MPRAGE_br_raw_20140421143830902_12_S216639_I420782-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/002_S_4521/MPRAGE/2012-05-24_10_33_23.0/S151533/ADNI_002_S_4521_MR_MPRAGE_br_raw_20120524132005008_127_S151533_I306318-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/067_S_0056/MPRAGE/2010-12-10_08_00_19.0/S96253/ADNI_067_S_0056_MR_MPRAGE_br_raw_20101210120111325_71_S96253_I208165-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/041_S_4720/MPRAGE/2012-05-14_11_44_47.0/S150977/ADNI_041_S_4720_MR_MPRAGE_br_raw_20120518103350430_113_S150977_I305199-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/128_S_4742/MPRAGE/2012-12-12_15_28_31.0/S192853/ADNI_128_S_4742_MR_MPRAGE_br_raw_20130619135417559_70_S192853_I377408-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/153_S_4838/MPRAGE/2012-10-03_07_57_26.0/S169468/ADNI_153_S_4838_MR_MPRAGE_br_raw_20121003090606468_8_S169468_I337910-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/137_S_4351/MPRAGE/2015-12-09_14_06_22.0/S326257/ADNI_137_S_4351_MR_MPRAGE_br_raw_20151209160016329_164_S326257_I574539-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/141_S_1052/MPRAGE/2013-12-21_08_14_46.0/S209474/ADNI_141_S_1052_MR_MPRAGE_br_raw_20131227162228407_71_S209474_I403662-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/022_S_4196/MPRAGE/2011-09-13_17_06_47.0/S212023/ADNI_022_S_4196_MR_MPRAGE_br_raw_20140210153614996_168_S212023_I413241-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/013_S_1186/MPRAGE/2009-03-19_14_33_07.0/S65170/ADNI_013_S_1186_MR_MPRAGE_br_raw_20090410164810296_95_S65170_I139978-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/070_S_4793/MPRAGE/2012-09-27_09_23_34.0/S168886/ADNI_070_S_4793_MR_MPRAGE_br_raw_20120927112429562_146_S168886_I336944-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/070_S_4708/MPRAGE/2012-08-15_11_31_33.0/S160874/ADNI_070_S_4708_MR_MPRAGE_br_raw_20120815142351926_72_S160874_I323873-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/024_S_4158/MPRAGE/2015-09-04_14_03_39.0/S271661/ADNI_024_S_4158_MR_MPRAGE_br_raw_20150904171215374_171_S271661_I508923-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/011_S_4845/MPRAGE/2012-07-12_14_02_42.0/S157432/ADNI_011_S_4845_MR_MPRAGE_br_raw_20120712150929883_47_S157432_I316089-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/037_S_4706/MPRAGE/2016-05-18_07_51_28.0/S442613/ADNI_037_S_4706_MR_MPRAGE_br_raw_20160518092456848_21_S442613_I709520-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/013_S_4579/MPRAGE/2014-06-02_10_20_36.0/S221450/ADNI_013_S_4579_MR_MPRAGE_br_raw_20150420150554997_69_S221450_I429583-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/098_S_2079/MPRAGE/2012-09-27_09_04_24.0/S168919/ADNI_098_S_2079_MR_MPRAGE_br_raw_20120927112555928_148_S168919_I336987-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/002_S_4270/MPRAGE/2011-10-11_07_59_12.0/S125083/ADNI_002_S_4270_MR_MPRAGE_br_raw_20111011112150032_111_S125083_I260581-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/031_S_2018/MPRAGE/2010-07-02_10_39_57.0/S88859/ADNI_031_S_2018_MR_MPRAGE_br_raw_20100709143139293_56_S88859_I181509-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/114_S_5234/MPRAGE/2013-09-26_12_12_05.0/S203040/ADNI_114_S_5234_MR_MPRAGE_br_raw_20131007094207272_7_S203040_I393332-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/062_S_1294/MPRAGE/2007-02-15_12_16_04.0/S26551/ADNI_062_S_1294_MR_MPRAGE_br_raw_20070215160354372_98_S26551_I40461-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/037_S_4028/MPRAGE/2015-06-04_09_34_23.0/S262066/ADNI_037_S_4028_MR_MPRAGE_br_raw_20150604114631667_63_S262066_I495892-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/141_S_4907/MPRAGE/2012-09-09_15_37_33.0/S166675/ADNI_141_S_4907_MR_MPRAGE_br_raw_20120910141953801_160_S166675_I332569-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/130_S_5231/MPRAGE/2013-07-16_07_45_17.0/S195532/ADNI_130_S_5231_MR_MPRAGE_br_raw_20130718111409877_148_S195532_I381305-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/020_S_4920/MPRAGE/2012-09-13_13_12_24.0/S167565/ADNI_020_S_4920_MR_MPRAGE_br_raw_20121207145620168_2_S167565_I334258-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/067_S_2196/MPRAGE/2010-11-22_07_56_37.0/S95103/ADNI_067_S_2196_MR_MPRAGE_br_raw_20101122092317964_98_S95103_I206075-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/068_S_4340/MPRAGE/2011-11-28_16_04_21.0/S131144/ADNI_068_S_4340_MR_MPRAGE_br_raw_20111129090053560_101_S131144_I268979-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/018_S_0142/MPRAGE/2015-02-09_14_22_37.0/S248051/ADNI_018_S_0142_MR_MPRAGE_br_raw_20150210121905656_25_S248051_I472548-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/130_S_4417/MPRAGE/2012-04-20_09_24_28.0/S148670/ADNI_130_S_4417_MR_MPRAGE_br_raw_20120430131355180_66_S148670_I301094-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 4,
+            "image": [
+                "ADNI/023_S_4164/MPRAGE/2013-12-18_12_35_08.0/S208596/ADNI_023_S_4164_MR_MPRAGE_br_raw_20131219131118047_19_S208596_I402408-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/013_S_0240/MPRAGE/2008-04-24_14_57_16.0/S49343/ADNI_013_S_0240_MR_MPRAGE_br_raw_20080425155515406_98_S49343_I104048-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/141_S_4803/MPRAGE/2012-06-23_15_49_55.0/S155231/ADNI_141_S_4803_MR_MPRAGE_br_raw_20120625134337750_92_S155231_I312262-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/130_S_4817/MPRAGE/2013-01-22_08_45_15.0/S180711/ADNI_130_S_4817_MR_MPRAGE_br_raw_20130123123944983_69_S180711_I355852-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/012_S_4643/MPRAGE/2012-04-11_12_16_59.0/S147338/ADNI_012_S_4643_MR_MPRAGE_br_raw_20120416152536718_1_S147338_I297693-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/072_S_4462/MPRAGE/2012-08-13_11_02_31.0/S160706/ADNI_072_S_4462_MR_MPRAGE_br_raw_20120814113056649_48_S160706_I323500-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/009_S_4814/MPRAGE/2012-06-29_13_37_36.0/S156281/ADNI_009_S_4814_MR_MPRAGE_br_raw_20120702091745429_68_S156281_I313893-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/037_S_4770/MPRAGE/2012-07-09_10_46_57.0/S156967/ADNI_037_S_4770_MR_MPRAGE_br_raw_20120709115645978_143_S156967_I315489-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/073_S_4403/MPRAGE/2011-11-28_15_39_54.0/S131366/ADNI_073_S_4403_MR_MPRAGE_br_raw_20111130151302849_94_S131366_I269287-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/031_S_4590/MPRAGE/2012-03-15_13_25_46.0/S144046/ADNI_031_S_4590_MR_MPRAGE_br_raw_20120316145852808_106_S144046_I290642-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/036_S_4878/MPRAGE/2012-08-02_16_12_23.0/S159481/ADNI_036_S_4878_MR_MPRAGE_br_raw_20120803114808529_80_S159481_I321504-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/036_S_4715/MPRAGE/2012-11-27_12_39_06.0/S175532/ADNI_036_S_4715_MR_MPRAGE_br_raw_20121127152230455_170_S175532_I348035-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/009_S_0751/MPRAGE/2014-09-04_14_52_59.0/S232243/ADNI_009_S_0751_MR_MPRAGE_br_raw_20140930103717795_38_S232243_I445549-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/033_S_4179/MPRAGE/2016-01-04_10_08_17.0/S339518/ADNI_033_S_4179_MR_MPRAGE_br_raw_20160104114525082_69_S339518_I589769-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 0,
+            "image": [
+                "ADNI/032_S_0214/MPRAGE/2011-04-21_17_10_42.0/S105048/ADNI_032_S_0214_MR_MPRAGE_br_raw_20110423110935395_138_S105048_I228817-brain.nii.gz"
+            ],
+            "label": 2
+        },
+        {
+            "fold": 2,
+            "image": [
+                "ADNI/031_S_4203/MPRAGE/2011-08-31_13_51_43.0/S121617/ADNI_031_S_4203_MR_MPRAGE_br_raw_20110913173359250_6_S121617_I255316-brain.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "image": [
+                "ADNI/011_S_4278/MPRAGE/2015-11-02_16_28_23.0/S299466/ADNI_011_S_4278_MR_MPRAGE_br_raw_20151105104357865_50_S299466_I543530-brain.nii.gz"
+            ],
+            "label": 0
+        },
+        {
+            "fold": 3,
+            "image": [
+                "ADNI/070_S_4793/MPRAGE/2013-01-10_09_54_05.0/S179829/ADNI_070_S_4793_MR_MPRAGE_br_raw_20130110132904296_91_S179829_I354551-brain.nii.gz"
+            ],
+            "label": 1
+        }
+    ]
+}

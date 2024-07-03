@@ -1,0 +1,375 @@
+{
+    "training": [
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_04/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_04/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_05/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_05/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_01/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_01/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_02/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_02/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_03/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_08/Patient_03/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_04/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_04/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_05/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_05/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_01/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_01/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_02/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_02/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_03/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_01/Patient_03/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_04/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_04/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_05/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_05/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_01/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_01/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_02/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_02/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_03/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Training/Training/Center_07/Patient_03/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_09/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_09/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_04/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_04/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_05/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_05/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_07/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_07/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_10/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_10/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_08/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_08/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_01/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_01/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_06/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_06/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_02/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_02/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_03/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_08/Patient_03/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_04/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_04/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_05/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_05/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_07/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_07/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_08/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_08/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_01/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_01/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_06/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_06/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_02/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_02/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_03/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_03/Patient_03/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_09/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_09/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_04/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_04/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_05/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_05/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_07/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_07/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_10/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_10/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_08/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_08/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_01/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_01/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_06/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_06/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_02/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_02/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_03/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_01/Patient_03/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_09/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_09/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_04/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_04/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_05/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_05/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_07/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_07/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_10/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_10/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_08/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_08/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_01/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_01/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_06/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_06/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_02/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_02/Masks/Consensus.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_03/Preprocessed_Data/FLAIR_preprocessed.nii.gz"
+            ],
+            "label": "/data/MSSEG2016_all/MSSEG-Testing/Testing/Center_07/Patient_03/Masks/Consensus.nii.gz"
+        }
+    ]
+}

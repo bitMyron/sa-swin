@@ -1,0 +1,212 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "id": 0,
+            "image": [
+                "/data/Armin_masks/079Kg_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 1,
+            "image": [
+                "/data/Armin_masks/087Ps_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 2,
+            "image": [
+                "/data/Armin_masks/088Be_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 3,
+            "image": [
+                "/data/Armin_masks/081Jg_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 4,
+            "image": [
+                "/data/Armin_masks/094Sb_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 5,
+            "image": [
+                "/data/Armin_masks/065Ja_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 6,
+            "image": [
+                "/data/Armin_masks/084Ss_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 7,
+            "image": [
+                "/data/Armin_masks/076Rb_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 8,
+            "image": [
+                "/data/Armin_masks/070Mg_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 9,
+            "image": [
+                "/data/Armin_masks/074Ms_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 10,
+            "image": [
+                "/data/Armin_masks/080Ai_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 11,
+            "image": [
+                "/data/Armin_masks/072Hf_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 12,
+            "image": [
+                "/data/Armin_masks/089Mh_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 13,
+            "image": [
+                "/data/Armin_masks/071Rm_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 14,
+            "image": [
+                "/data/Armin_masks/069Ks_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 15,
+            "image": [
+                "/data/Armin_masks/077Eg_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 16,
+            "image": [
+                "/data/Armin_masks/085Rg_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 17,
+            "image": [
+                "/data/Armin_masks/091Pm_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 18,
+            "image": [
+                "/data/Armin_masks/073Eq_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 19,
+            "image": [
+                "/data/Armin_masks/082Ll_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 20,
+            "image": [
+                "/data/Armin_masks/090Ts_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 21,
+            "image": [
+                "/data/Armin_masks/078Rs_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 22,
+            "image": [
+                "/data/Armin_masks/086Kf_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 23,
+            "image": [
+                "/data/Armin_masks/083Do_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 0,
+            "id": 24,
+            "image": [
+                "/data/Armin_masks/068Al_3DT1_cs_iso_mni_brain_sub.nii.gz"
+            ],
+            "label": 1
+        },
+        {
+            "fold": 1,
+            "id": 49,
+            "image": [
+                "/data/yang/epilepsy/sub-00156/anat/sub-00156_acq-sag111_T1w_mni_brain_sub.nii.gz"
+            ],
+            "label": 0
+        }
+    ]
+}
