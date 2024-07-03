@@ -66,9 +66,7 @@ python main_asymmetry_pretrain.py \
 --json_dir='./datasets/pretrain/mri_all/jsons/asymmetry_training.json' \
 --data_dir=/ \
 --use_checkpoint \
---workers=1 \
---lrdecay \
---num_classes=2 
+--lrdecay 
   ```
 
 ### Fine-tuning
@@ -92,34 +90,6 @@ python main_saca_classifier.py \
 --val_every=10 \
 --json_dir='./datasets/epilepsy/jsons/epilepsy.json' \
 --resume_checkpoint='./asymmetry_pretrain/mri/swinuni/model_bestValRMSE.pt' \
---data_dir=/ \
---use_checkpoint \
---num_classes=2 \
---class_weights='[1, 1]' \
---noamp
-```
-
-### Fine-tuning
-
-An example for fine-tuning the pre-trained model on a classification task:
-```bash
-python main_classification.py \
---feature_size=48 \
---batch_size=32 \
---logdir=./runs/eplipesy/swinmlp_uni_${TIMESTAMP} \
---fold=0 \
---lr=1e-4 \
---roi_x=178 \
---roi_y=208 \
---roi_z=178  \
---in_channels=1 \
---spatial_dims=3 \
---max_epochs=50 \
---lr_schedule=warmup_cosine \
---warmup_epochs=5 \
---val_every=10 \
---json_dir='./datasets/epilepsy/jsons/epilepsy.json' \
---resume_checkpoint='./runs/pretrain/pretrain_mri_t1/model_bestValRMSE.pt' \
 --data_dir=/ \
 --use_checkpoint \
 --num_classes=2 \
